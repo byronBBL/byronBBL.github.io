@@ -11,7 +11,7 @@ author_profile: true
 
 <div class='paper-box-text' markdown="1">
 
--	Baolong Bi, Shenghua Liu, Yiwei Wang, Lingrui Mei, Xueqi Cheng. SLANG: New Concept Comprehension of Large Language Models.
+-	`Baolong Bi`, Shenghua Liu, Yiwei Wang, Lingrui Mei, Xueqi Cheng. SLANG: New Concept Comprehension of Large Language Models.
 [[arxiv]](https://arxiv.org/abs/2404.00216) [[paper]](https://arxiv.org/pdf/2404.00216.pdf)
 
 -	`Baolong Bi`, Shenghua Liu, Yiwei Wang, Lingrui Mei, Xueqi Cheng. LPNL: Scalable Link Prediction with Large Language Models.

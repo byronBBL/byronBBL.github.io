@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Beijing China"
-title                    : "Your Name / Site Title"
+title                    : "Baolong Bi's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "CS Ph.D. Candidate at ICT, CAS"
   location         : "Beijing China"
-  employer         : "Red Brick University"
+  employer         : "ICT, CAS"
   uri              : # URL
   email            : "bibaolong23z@ict.ac.cn" 
 

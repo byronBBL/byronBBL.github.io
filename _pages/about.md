@@ -17,11 +17,11 @@ Publication
 
 <div class='paper-box-text' markdown="1">
 
--	`Baolong Bi`, Shenghua Liu, Yiwei Wang, Lingrui Mei, Xueqi Cheng. SLANG: New Concept Comprehension of Large Language Models.
+-	`Baolong Bi`, Shenghua Liu, Yiwei Wang, Lingrui Mei, Xueqi Cheng. Is Factuality Decoding a Free Lunch for LLMs? Evaluation on Knowledge Editing Benchmark.
 [[arxiv]](https://arxiv.org/abs/2404.00216) [[paper]](https://arxiv.org/pdf/2404.00216.pdf)
 
 -	`Baolong Bi`, Shenghua Liu, Yiwei Wang, Lingrui Mei, Xueqi Cheng. LPNL: Scalable Link Prediction with Large Language Models.
-[[arxiv]](https://arxiv.org/abs/2401.12585) [[paper]](https://arxiv.org/pdf/2401.12585.pdf)
+[[arxiv]](https://arxiv.org/abs/2401.13227) [[paper]](https://arxiv.org/pdf/2401.13227.pdf)
 
 -	Lingrui Mei, Shenghua Liu, Yiwei Wang, `Baolong Bi`, Xueqi Cheng. SLANG: New Concept Comprehension of Large Language Models.
 [[arxiv]](https://arxiv.org/abs/2401.12585) [[paper]](https://arxiv.org/pdf/2401.12585.pdf) 

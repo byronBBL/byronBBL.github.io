@@ -11,8 +11,14 @@ author_profile: true
 
 <div class='paper-box-text' markdown="1">
 
--	Lingrui Mei, Shenghua Liu, Yiwei Wang, 'Baolong Bi', Xueqi Cheng. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[arxiv]]([https://dx.doi.org/10.3390/s22093587](https://arxiv.org/abs/2401.12585)) [[paper]](https://arxiv.org/pdf/2401.12585.pdf) 
+-	Baolong Bi, Shenghua Liu, Yiwei Wang, Lingrui Mei, Xueqi Cheng. SLANG: New Concept Comprehension of Large Language Models.
+[[arxiv]](https://arxiv.org/abs/2404.00216) [[paper]](https://arxiv.org/pdf/2404.00216.pdf)
+
+-	`Baolong Bi`, Shenghua Liu, Yiwei Wang, Lingrui Mei, Xueqi Cheng. LPNL: Scalable Link Prediction with Large Language Models.
+[[arxiv]](https://arxiv.org/abs/2401.12585) [[paper]](https://arxiv.org/pdf/2401.12585.pdf)
+
+-	Lingrui Mei, Shenghua Liu, Yiwei Wang, `Baolong Bi`, Xueqi Cheng. SLANG: New Concept Comprehension of Large Language Models.
+[[arxiv]](https://arxiv.org/abs/2401.12585) [[paper]](https://arxiv.org/pdf/2401.12585.pdf) 
 
 </div>
-</div>
+

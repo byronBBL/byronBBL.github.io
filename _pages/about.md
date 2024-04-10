@@ -42,9 +42,10 @@ Education
 
 Hornors and Awards
 ======
-  - 2020 The first prize of the National College Student Mathematical Modeling Contest
   - 2021 Bronze medal in ICPC China National Programming Contest
+  - 2020 The first prize of the National College Student Mathematical Modeling Contest
   - 2020 First prize in Chongqing University Student Programming Competition
+  - 2017 First prize in the national youth informatics competition
   - Advanced Individual in Innovation and Entrepreneurship of Chongqing University
   - Ministry of Education-Huawei Smart Base "Future Star"
   - Chongqing University First Class Scholarship

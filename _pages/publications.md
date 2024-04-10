@@ -15,7 +15,7 @@ author_profile: true
 [[arxiv]](https://arxiv.org/abs/2404.00216) [[paper]](https://arxiv.org/pdf/2404.00216.pdf)
 
 -	`Baolong Bi`, Shenghua Liu, Yiwei Wang, Lingrui Mei, Xueqi Cheng. LPNL: Scalable Link Prediction with Large Language Models.
-[[arxiv]](https://arxiv.org/pdf/2401.13227.pdf) [[paper]](https://arxiv.org/pdf/2401.13227.pdf)
+[[arxiv]](https://arxiv.org/abs/2401.13227) [[paper]](https://arxiv.org/pdf/2401.13227.pdf)
 
 -	Lingrui Mei, Shenghua Liu, Yiwei Wang, `Baolong Bi`, Xueqi Cheng. SLANG: New Concept Comprehension of Large Language Models.
 [[arxiv]](https://arxiv.org/abs/2401.12585) [[paper]](https://arxiv.org/pdf/2401.12585.pdf) 

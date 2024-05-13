@@ -37,7 +37,7 @@ Education
  
 - **Chongqing University**
 
-  - Ph.D. in Computer Science(Excellent), 2019 - 2023
+  - B.E. in Computer Science(Excellent), 2019 - 2023
   - Advisor: Prof. [Chengliang Wang](http://www.cs.cqu.edu.cn/info/1352/4177.htm)
 
 Hornors and Awards

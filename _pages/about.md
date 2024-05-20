@@ -9,6 +9,10 @@ redirect_from:
 
 I am a first-year Ph.D. student in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn), [Chinese Academy of Sciences](https://www.cas.cn), advised by Prof. [Shenghua Liu](https://shenghua-liu.github.io). I am a member of [CAS Key Laboratory of AI Security](https://ict.cas.cn/jssgk/zzjg/kyxt/sjzn/js/). My research interests lie in the general area of Large Language Models (LLMs) and Graph Learning.
 
+News
+======
+- `202405`: Our work *LPNL: Scalable Link Prediction with Large Language Models* are accepted by ACL 2024 findings
+
 Publication
 ======
 {% if site.author.googlescholar %}
@@ -27,6 +31,7 @@ Publication
 [[arxiv]](https://arxiv.org/abs/2401.12585) [[paper]](https://arxiv.org/pdf/2401.12585.pdf) 
 
 </div>
+ 
 
 Education
 ======

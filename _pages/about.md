@@ -21,6 +21,9 @@ Publication
 
 <div class='paper-box-text' markdown="1">
 
+-	`Baolong Bi`, Shenghua Liu, Lingrui Mei, Yiwei Wang, Pengliang Ji, Xueqi Cheng. Decoding by Contrasting Knowledge:\\Enhancing LLMs' Confidence on Edited Facts.
+[[arxiv]](https://arxiv.org/abs/2405.11613) [[paper]](https://arxiv.org/pdf/2405.11613.pdf)
+
 -	`Baolong Bi`, Shenghua Liu, Yiwei Wang, Lingrui Mei, Xueqi Cheng. Is Factuality Decoding a Free Lunch for LLMs? Evaluation on Knowledge Editing Benchmark.
 [[arxiv]](https://arxiv.org/abs/2404.00216) [[paper]](https://arxiv.org/pdf/2404.00216.pdf)
 

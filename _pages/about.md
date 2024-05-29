@@ -11,7 +11,7 @@ I am a first-year Ph.D. student in Computer Science at [Institute of Computing T
 
 News
 ======
-- `202405`: Our work *LPNL: Scalable Link Prediction with Large Language Models* are accepted to ACL 2024 findings
+- `202405`: Our work *LPNL: Scalable Link Prediction with Large Language Models* is accepted to ACL 2024 findings
 
 Publication
 ======

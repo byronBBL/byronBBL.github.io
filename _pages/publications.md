@@ -11,6 +11,9 @@ author_profile: true
 
 <div class='paper-box-text' markdown="1">
 
+-	`Baolong Bi`, Shenghua Liu, Yiwei Wang, Lingrui Mei, Hongcheng Gao, Yilong Xu, Xueqi Cheng. *Adaptive Token Biaser: Knowledge Editing via Biasing Key Entities*.
+[[arxiv]](https://arxiv.org/abs/2406.12468) [[paper]](https://arxiv.org/pdf/2406.12468)
+
 -	`Baolong Bi`, Shenghua Liu, Lingrui Mei, Yiwei Wang, Pengliang Ji, Xueqi Cheng. *Decoding by Contrasting Knowledge: Enhancing LLMs' Confidence on Edited Facts*.
 [[arxiv]](https://arxiv.org/abs/2405.11613) [[paper]](https://arxiv.org/pdf/2405.11613.pdf)
 

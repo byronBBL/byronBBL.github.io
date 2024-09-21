@@ -11,7 +11,8 @@ I am a second-year Ph.D. student in Computer Science at [Institute of Computing 
 
 News
 ======
-- `202405`: Our work *LPNL: Scalable Link Prediction with Large Language Models* is accepted to ACL 2024 findings
+- `202409`: Two papers accepted to *EMNLP 2024*
+- `202405`: One paper accepted to *ACL 2024*
 
 Publication
 ======

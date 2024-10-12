@@ -11,6 +11,9 @@ author_profile: true
 
 <div class='paper-box-text' markdown="1">
 
+-	Lingrui Mei, Shenghua Liu, Yiwei Wang, `Baolong Bi`, Ruibin Yuan, Xueqi Cheng。 **HiddenGuard: Fine-Grained Safe Generation with Specialized Representation Router**.
+[[arxiv]](https://arxiv.org/abs/2410.02684) [[paper]](https://arxiv.org/pdf/2410.02684)
+
 -	`Baolong Bi`, Shenghua Liu, Yiwei Wang, Lingrui Mei, Hongcheng Gao, Junfeng Fang, Xueqi Cheng. **StruEdit: Structured Outputs Enable the Fast and Accurate Knowledge Editing for Large Language Models**.
 [[arxiv]](https://arxiv.org/abs/2409.10132) [[paper]](https://arxiv.org/pdf/2409.10132)
 

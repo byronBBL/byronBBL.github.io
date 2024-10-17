@@ -22,7 +22,10 @@ Publication
 
 <div class='paper-box-text' markdown="1">
 
--	Lingrui Mei, Shenghua Liu, Yiwei Wang, `Baolong Bi`, Ruibin Yuan, Xueqi Cheng。 **HiddenGuard: Fine-Grained Safe Generation with Specialized Representation Router**.
+-	Yuyao Ge, Shenghua Liu, `Baolong Bi`, Yiwei Wang, Lingrui Mei, Wenjie Feng, Lizhe Chen, Xueqi Cheng. **Can Graph Descriptive Order Affect Solving Graph Problems with LLMs?**.
+[[arxiv]](https://arxiv.org/abs/2402.07140) [[paper]](https://arxiv.org/pdf/2402.07140v4)
+
+-	Lingrui Mei, Shenghua Liu, Yiwei Wang, `Baolong Bi`, Ruibin Yuan, Xueqi Cheng. **HiddenGuard: Fine-Grained Safe Generation with Specialized Representation Router**.
 [[arxiv]](https://arxiv.org/abs/2410.02684) [[paper]](https://arxiv.org/pdf/2410.02684)
 
 -	`Baolong Bi`, Shenghua Liu, Yiwei Wang, Lingrui Mei, Hongcheng Gao, Junfeng Fang, Xueqi Cheng. **StruEdit: Structured Outputs Enable the Fast and Accurate Knowledge Editing for Large Language Models**.

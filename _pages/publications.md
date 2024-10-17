@@ -11,6 +11,9 @@ author_profile: true
 
 <div class='paper-box-text' markdown="1">
 
+-	Yuyao Ge, Shenghua Liu, `Baolong Bi`, Yiwei Wang, Lingrui Mei, Wenjie Feng, Lizhe Chen, Xueqi Cheng. **Can Graph Descriptive Order Affect Solving Graph Problems with LLMs?**.
+[[arxiv]](https://arxiv.org/abs/2402.07140) [[paper]](https://arxiv.org/pdf/2402.07140v4)
+
 -	Lingrui Mei, Shenghua Liu, Yiwei Wang, `Baolong Bi`, Ruibin Yuan, Xueqi Cheng。 **HiddenGuard: Fine-Grained Safe Generation with Specialized Representation Router**.
 [[arxiv]](https://arxiv.org/abs/2410.02684) [[paper]](https://arxiv.org/pdf/2410.02684)
 

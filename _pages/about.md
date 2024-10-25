@@ -43,7 +43,7 @@ Publication
 -	`Baolong Bi`, Shenghua Liu, Lingrui Mei, Yiwei Wang, Pengliang Ji, Xueqi Cheng. **Decoding by Contrasting Knowledge: Enhancing LLMs' Confidence on Edited Facts**.
 [[page]](https://deck-llm.meirtz.com/) [[arxiv]](https://arxiv.org/abs/2405.11613) [[paper]](https://arxiv.org/pdf/2405.11613.pdf)
 
--	`Baolong Bi`, Shenghua Liu, Yiwei Wang, Lingrui Mei, Xueqi Cheng. **Is Factuality Decoding a Free Lunch for LLMs? Evaluation on Knowledge Editing Benchmark**.
+-	`Baolong Bi`, Shenghua Liu, Yiwei Wang, Lingrui Mei, Xueqi Cheng. **Is Factuality Enhancement a Free Lunch For LLMs? Better Factuality Can Lead to Worse Context-Faithfulness**.
 [[arxiv]](https://arxiv.org/abs/2404.00216) [[paper]](https://arxiv.org/pdf/2404.00216.pdf)
 
 -	`Baolong Bi`, Shenghua Liu, Yiwei Wang, Lingrui Mei, Xueqi Cheng. **LPNL: Scalable Link Prediction with Large Language Models**.

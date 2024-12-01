@@ -11,6 +11,7 @@ I am a second-year Ph.D. student in Computer Science at [Institute of Computing 
 
 News
 ======
+- `202411`: One papers accepted to *COLING 2025*
 - `202409`: Two papers accepted to *EMNLP 2024*
 - `202405`: One paper accepted to *ACL 2024*
 

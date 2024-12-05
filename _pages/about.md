@@ -23,6 +23,9 @@ Publication
 
 <div class='paper-box-text' markdown="1">
 
+-	Zehao Li, Wenwei Han, Yujun Cai, Hao Jiang, 'Baolong Bi', Shuqin Gao, Honglong Zhao, Zhaoqi Wang. **GradiSeg: Gradient-Guided Gaussian Segmentation with Enhanced 3D Boundary Precision**.
+[[arxiv]](https://arxiv.org/abs/2412.00392) [[paper]](https://arxiv.org/pdf/2412.00392)
+
 -	Yuyao Ge, Shenghua Liu, `Baolong Bi`, Yiwei Wang, Lingrui Mei, Wenjie Feng, Lizhe Chen, Xueqi Cheng. **Can Graph Descriptive Order Affect Solving Graph Problems with LLMs?**.
 [[arxiv]](https://arxiv.org/abs/2402.07140) [[paper]](https://arxiv.org/pdf/2402.07140v4)
 

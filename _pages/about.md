@@ -20,7 +20,6 @@ I am a second-year Ph.D. student in Computer Science at [Institute of Computing 
 {% endif %}
 
 <div class='paper-box-text' markdown="1">
-
 ### 2024
 -	Zehao Li, Wenwei Han, Yujun Cai, Hao Jiang, 'Baolong Bi', Shuqin Gao, Honglong Zhao, Zhaoqi Wang. **GradiSeg: Gradient-Guided Gaussian Segmentation with Enhanced 3D Boundary Precision**.
 [[arxiv]](https://arxiv.org/abs/2412.00392) [[paper]](https://arxiv.org/pdf/2412.00392)
@@ -57,7 +56,6 @@ I am a second-year Ph.D. student in Computer Science at [Institute of Computing 
 
 </div>
  
-
 ## Education
 - **Institute of Computing Technology, Chinese Academy of Sciences**
   - Ph.D. in Computer Science, 2023 - present
@@ -65,7 +63,6 @@ I am a second-year Ph.D. student in Computer Science at [Institute of Computing 
 - **Chongqing University**
   - B.E. in Computer Science(Excellent), 2019 - 2023
   - Advisor: Prof. [Chengliang Wang](http://www.cs.cqu.edu.cn/info/1352/4177.htm)
-
 ## Hornors and Awards
   - 2021 Bronze medal in ICPC China National Programming Contest
   - 2020 The first prize of the National College Student Mathematical Modeling Contest

@@ -7,26 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-# **About Me**
-
 I am a second-year **Ph.D. student** in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn), [Chinese Academy of Sciences](https://www.cas.cn), advised by Prof. [Shenghua Liu](https://shenghua-liu.github.io) and [Yiwei Wang](https://wangywust.github.io/).  
 I am a member of [CAS Key Laboratory of AI Security](https://ict.cas.cn/jssgk/zzjg/kyxt/sjzn/js/).  
 My research interests lie in the general area of **Large Language Models (LLMs)** and **Graph Learning**.
-
 ---
-
 ## **🗞 News**
 - `2024-11`: One paper accepted to *COLING 2025*
 - `2024-09`: Two papers accepted to *EMNLP 2024*
 - `2024-05`: One paper accepted to *ACL 2024*
-
 ---
-
 ## **📚 Publications**
 {% if site.author.googlescholar %}
 <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
-
 ### 2024
 -	Zehao Li, Wenwei Han, Yujun Cai, Hao Jiang, 'Baolong Bi', Shuqin Gao, Honglong Zhao, Zhaoqi Wang. **GradiSeg: Gradient-Guided Gaussian Segmentation with Enhanced 3D Boundary Precision**.
 [[arxiv]](https://arxiv.org/abs/2412.00392) [[paper]](https://arxiv.org/pdf/2412.00392)
@@ -71,9 +64,7 @@ My research interests lie in the general area of **Large Language Models (LLMs)*
 - **Chongqing University**  
   *B.E. in Computer Science (Excellent)* (2019 - 2023)  
   Advisor: Prof. [Chengliang Wang](http://www.cs.cqu.edu.cn/info/1352/4177.htm)
-
 ---
-
 ## **🏆 Honors and Awards**
   - 2021 Bronze medal in ICPC China National Programming Contest
   - 2020 The first prize of the National College Student Mathematical Modeling Contest

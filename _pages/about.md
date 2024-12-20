@@ -19,7 +19,7 @@ I am a second-year **Ph.D. student** in Computer Science at [Institute of Comput
 <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 ### 2024
--	Zehao Li, Wenwei Han, Yujun Cai, Hao Jiang, 'Baolong Bi', Shuqin Gao, Honglong Zhao, Zhaoqi Wang. **GradiSeg: Gradient-Guided Gaussian Segmentation with Enhanced 3D Boundary Precision**.
+-	Zehao Li, Wenwei Han, Yujun Cai, Hao Jiang, `Baolong Bi`, Shuqin Gao, Honglong Zhao, Zhaoqi Wang. **GradiSeg: Gradient-Guided Gaussian Segmentation with Enhanced 3D Boundary Precision**.
 [[arxiv]](https://arxiv.org/abs/2412.00392) [[paper]](https://arxiv.org/pdf/2412.00392)
 
 -	Yuyao Ge, Shenghua Liu, `Baolong Bi`, Yiwei Wang, Lingrui Mei, Wenjie Feng, Lizhe Chen, Xueqi Cheng. **Can Graph Descriptive Order Affect Solving Graph Problems with LLMs?**.

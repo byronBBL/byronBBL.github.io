@@ -9,7 +9,7 @@ redirect_from:
 
 I am a second-year **Ph.D. student** in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn), [Chinese Academy of Sciences](https://www.cas.cn), advised by Prof. [Shenghua Liu](https://shenghua-liu.github.io) and [Yiwei Wang](https://wangywust.github.io/). I am a member of [CAS Key Laboratory of AI Security](https://ict.cas.cn/jssgk/zzjg/kyxt/sjzn/js/). My research interests lie in the general area of Large Language Models (LLMs).
 
-## **🗞 News**
+## **🔥 News**
 - `2024-11`: One paper accepted to *COLING 2025*
 - `2024-09`: Two papers accepted to *EMNLP 2024*
 - `2024-05`: One paper accepted to *ACL 2024*

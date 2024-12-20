@@ -63,7 +63,7 @@ I am a second-year Ph.D. student in Computer Science at [Institute of Computing 
 - **Chongqing University**
   - B.E. in Computer Science(Excellent), 2019 - 2023
   - Advisor: Prof. [Chengliang Wang](http://www.cs.cqu.edu.cn/info/1352/4177.htm)
-  - 
+  
 ## Hornors and Awards
   - 2021 Bronze medal in ICPC China National Programming Contest
   - 2020 The first prize of the National College Student Mathematical Modeling Contest

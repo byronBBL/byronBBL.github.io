@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year **Ph.D. student** in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn), [Chinese Academy of Sciences](https://www.cas.cn), advised by Prof. [Shenghua Liu](https://shenghua-liu.github.io) and [Yiwei Wang](https://wangywust.github.io/). I am a member of [CAS Key Laboratory of AI Security](https://ict.cas.cn/jssgk/zzjg/kyxt/sjzn/js/). My research interests lie in the general area of trustworthy large language models. I am doing an internship at MSRA GenAI.
+I am a second-year **Ph.D. student** in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn), [Chinese Academy of Sciences](https://www.cas.cn), advised by Prof. [Shenghua Liu](https://shenghua-liu.github.io) and [Yiwei Wang](https://wangywust.github.io/). I am a member of [CAS Key Laboratory of AI Security](https://ict.cas.cn/jssgk/zzjg/kyxt/sjzn/js/). My research interests lie in the general area of trustworthy large language models. I completed a research internship at MSRA GenAI.
 
 I will be visiting the [Language Technologies Institute (LTI)](https://www.lti.cs.cmu.edu/) at Carnegie Mellon University (CMU) this year for a one-year research stay under the supervision of Prof. [Chenyan Xiong](https://www.cs.cmu.edu/~cx/).
 

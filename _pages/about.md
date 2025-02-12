@@ -24,6 +24,10 @@ I will be visiting the [Language Technologies Institute (LTI)](https://www.lti.c
 {% if site.author.googlescholar %}
 <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
+
+### 2025
+- Tianyu Zhang, Junfeng Fang, Houcheng Jiang, `Baolong Bi`, Xiang Wang, Xiangnan He **Explainable and Efficient Editing for Large Language Models**. [[arxiv]](https://openreview.net/forum?id=iAn7rlIfgc#discussion) [[paper]](https://openreview.net/pdf?id=iAn7rlIfgc)
+
 ### 2024
 - `Baolong Bi`, Shaohan Huang, Yiwei Wang, Tianchi Yang, Zihan Zhang, Haizhen Huang, Lingrui Mei, Junfeng Fang, Zehao Li, Furu Wei. **Context-DPO: Aligning Language Models for Context-Faithfulness**. [[page]](https://byronbbl.github.io/context-dpo.io/) [[arxiv]](https://www.arxiv.org/abs/2412.15280) [[paper]](https://arxiv.org/pdf/2412.15280)
 

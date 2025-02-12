@@ -11,6 +11,12 @@ author_profile: true
 
 <div class='paper-box-text' markdown="1">
 
+### 2025
+
+- Tianyu Zhang, Junfeng Fang, Houcheng Jiang, `Baolong Bi`, Xiang Wang, Xiangnan He **Explainable and Efficient Editing for Large Language Models**. [[arxiv]](https://openreview.net/forum?id=iAn7rlIfgc#discussion) [[paper]](https://openreview.net/pdf?id=iAn7rlIfgc)
+
+### 2024
+
 - `Baolong Bi`, Shaohan Huang, Yiwei Wang, Tianchi Yang, Zihan Zhang, Haizhen Huang, Lingrui Mei, Junfeng Fang, Zehao Li, Furu Wei. **Context-DPO: Aligning Language Models for Context-Faithfulness**. [[arxiv]](https://www.arxiv.org/abs/2412.15280) [[paper]](https://arxiv.org/pdf/2412.15280)
 
 -	Zehao Li, Wenwei Han, Yujun Cai, Hao Jiang, 'Baolong Bi', Shuqin Gao, Honglong Zhao, Zhaoqi Wang. **GradiSeg: Gradient-Guided Gaussian Segmentation with Enhanced 3D Boundary Precision**.

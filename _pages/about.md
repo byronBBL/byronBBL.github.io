@@ -11,7 +11,7 @@ I am a second-year **Ph.D. student** in Computer Science at [Institute of Comput
 
 I completed a research internship at [MSRA GenAI](https://www.microsoft.com/en-us/research/group/general-artificial-intelligence/) and I am currently doing a research internship with the [Qwen Team](https://www.alibabacloud.com/en/solutions/generative-ai/qwen?_p_lc=1).
 
-I will be visiting the [Language Technologies Institute (LTI)](https://www.lti.cs.cmu.edu/) at Carnegie Mellon University (CMU) this year for a one-year research stay under the supervision of Prof. [Chenyan Xiong](https://www.cs.cmu.edu/~cx/).
+I will be visiting the [Language Technologies Institute (LTI)](https://www.lti.cs.cmu.edu/), [Carnegie Mellon University (CMU)](https://www.cmu.edu/) this year for a one-year research stay under the supervision of Prof. [Chenyan Xiong](https://www.cs.cmu.edu/~cx/).
 
 
 ## **🔥 News**

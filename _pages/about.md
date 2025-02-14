@@ -26,7 +26,9 @@ I will be visiting the [Language Technologies Institute (LTI)](https://www.lti.c
 {% endif %}
 
 ### 2025
-- Tianyu Zhang, Junfeng Fang, Houcheng Jiang, `Baolong Bi`, Xiang Wang, Xiangnan He **Explainable and Efficient Editing for Large Language Models**. [[arxiv]](https://openreview.net/forum?id=iAn7rlIfgc#discussion) [[paper]](https://openreview.net/pdf?id=iAn7rlIfgc)
+- Zherui Li, Houcheng Jiang, Hao Chen, `Baolong Bi`, Zhenhong Zhou, Fei Sun, Junfeng Fang, Xiang Wang. **Reinforced Lifelong Editing for Language Models**. [[arxiv]](https://arxiv.org/abs/2502.05759) [[paper]]https://arxiv.org/pdf/2502.05759)
+
+- Tianyu Zhang, Junfeng Fang, Houcheng Jiang, `Baolong Bi`, Xiang Wang, Xiangnan He. **Explainable and Efficient Editing for Large Language Models**. [[arxiv]](https://openreview.net/forum?id=iAn7rlIfgc#discussion) [[paper]](https://openreview.net/pdf?id=iAn7rlIfgc)
 
 ### 2024
 - `Baolong Bi`, Shaohan Huang, Yiwei Wang, Tianchi Yang, Zihan Zhang, Haizhen Huang, Lingrui Mei, Junfeng Fang, Zehao Li, Furu Wei. **Context-DPO: Aligning Language Models for Context-Faithfulness**. [[page]](https://byronbbl.github.io/context-dpo.io/) [[arxiv]](https://www.arxiv.org/abs/2412.15280) [[paper]](https://arxiv.org/pdf/2412.15280)

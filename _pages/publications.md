@@ -24,7 +24,7 @@ Boundary Perception**. [[arxiv]](https://arxiv.org/abs/2502.11677) [[paper]](htt
 
 - `Baolong Bi`, Shaohan Huang, Yiwei Wang, Tianchi Yang, Zihan Zhang, Haizhen Huang, Lingrui Mei, Junfeng Fang, Zehao Li, Furu Wei. **Context-DPO: Aligning Language Models for Context-Faithfulness**. [[arxiv]](https://www.arxiv.org/abs/2412.15280) [[paper]](https://arxiv.org/pdf/2412.15280)
 
--	Zehao Li, Wenwei Han, Yujun Cai, Hao Jiang, 'Baolong Bi', Shuqin Gao, Honglong Zhao, Zhaoqi Wang. **GradiSeg: Gradient-Guided Gaussian Segmentation with Enhanced 3D Boundary Precision**.
+-	Zehao Li, Wenwei Han, Yujun Cai, Hao Jiang, `Baolong Bi`, Shuqin Gao, Honglong Zhao, Zhaoqi Wang. **GradiSeg: Gradient-Guided Gaussian Segmentation with Enhanced 3D Boundary Precision**.
 [[arxiv]](https://arxiv.org/abs/2412.00392) [[paper]](https://arxiv.org/pdf/2412.00392)
 
 -	Yuyao Ge, Shenghua Liu, `Baolong Bi`, Yiwei Wang, Lingrui Mei, Wenjie Feng, Lizhe Chen, Xueqi Cheng. **Can Graph Descriptive Order Affect Solving Graph Problems with LLMs?**.

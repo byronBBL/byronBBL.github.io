@@ -68,7 +68,13 @@ Boundary Perception**. [[arxiv]](https://arxiv.org/abs/2502.11677) [[paper]](htt
 [[arxiv]](https://arxiv.org/abs/2401.13227) [[paper]](https://arxiv.org/pdf/2401.13227.pdf)
 
 -	Lingrui Mei, Shenghua Liu, Yiwei Wang, `Baolong Bi`, Xueqi Cheng. **SLANG: New Concept Comprehension of Large Language Models**.
-[[arxiv]](https://arxiv.org/abs/2401.12585) [[paper]](https://arxiv.org/pdf/2401.12585.pdf) 
+[[arxiv]](https://arxiv.org/abs/2401.12585) [[paper]](https://arxiv.org/pdf/2401.12585.pdf)
+
+## **📝 Services**
+- **Reviewer for**  
+  - International Conference on Learning Representations (ICLR) 2025 
+  - Annual Meeting of the Association for Computational Linguistics (ACL) 2025
+  - Conference on Empirical Language Modeling (COLM) 2025
 
 ## **🎓 Education**
 - **Institute of Computing Technology, Chinese Academy of Sciences**  

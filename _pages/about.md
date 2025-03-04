@@ -20,7 +20,7 @@ I will be visiting the [Language Technologies Institute (LTI)](https://www.lti.c
 ## **📚 Publications**
 {% if site.author.googlescholar %}
 <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-
+{% endif %}
 
 -	`Baolong Bi`, Shenghua Liu, Yiwei Wang, Lingrui Mei, Hongcheng Gao, Yilong Xu, Xueqi Cheng. **Adaptive Token Biaser: Knowledge Editing via Biasing Key Entities**.
 [[arxiv]](https://arxiv.org/abs/2406.12468) [[paper]](https://arxiv.org/pdf/2406.12468)

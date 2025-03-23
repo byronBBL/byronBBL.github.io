@@ -27,6 +27,9 @@ I will be visiting the [Language Technologies Institute (LTI)](https://www.lti.c
 
 ### 2025
 
+- `Baolong Bi`, Shenghua Liu, Yiwei Wang, Yilong Xu, Junfeng Fang, Lingrui Mei, Xueqi Cheng. **Parameters vs. Context: Fine-Grained Control of Knowledge Reliance in Language Models**.
+[arxiv](https://arxiv.org/abs/2503.15888) [paper](https://arxiv.org/pdf/2503.15888)
+
 - Shiyu Ni, Keping Bi, Jiafeng Guo, Lulu Yu, `Baolong Bi`, Xueqi Cheng **Towards Fully Exploiting LLM Internal States to Enhance Knowledge
 Boundary Perception**. [[arxiv]](https://arxiv.org/abs/2502.11677) [[paper]](https://arxiv.org/pdf/2502.11677)
 

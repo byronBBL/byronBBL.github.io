@@ -11,6 +11,10 @@ author_profile: true
 
 <div class='paper-box-text' markdown="1">
 
+- Hongcheng Gao, Jiashu Qu, Jingyi Tang, `Baolong Bi`, Yue Liu, Hongyu Chen, Li Liang, Li Su, Qingming Huang **Exploring Hallucination of Large Multimodal Models in Video Understanding: Benchmark, Analysis and Mitigation** [arxiv](https://arxiv.org/abs/2503.19622) [paper](https://arxiv.org/pdf/2503.19622) [huggingface](https://huggingface.co/papers/2503.19622) [github](https://github.com/Hongcheng-Gao/HAVEN/tree/main)
+
+- Yuyao Ge, Shenghua Liu, Yiwei Wang, Lingrui Mei, Lizhe Chen, `Baolong Bi`, Xueqi Cheng **Innate Reasoning is Not Enough: In-Context Learning Enhances Reasoning Large Language Models with Less Overthinking** [arxiv](https://arxiv.org/abs/2503.19602) [paper](https://arxiv.org/pdf/2503.19602)
+
 - `Baolong Bi`, Shenghua Liu, Yiwei Wang, Yilong Xu, Junfeng Fang, Lingrui Mei, Xueqi Cheng. **Parameters vs. Context: Fine-Grained Control of Knowledge Reliance in Language Models**.
 [arxiv](https://arxiv.org/abs/2503.15888) [paper](https://arxiv.org/pdf/2503.15888)
 

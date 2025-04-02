@@ -13,6 +13,8 @@ author_profile: true
 
 ### 2025
 
+- Yilong Xu, Jinhua Gao, Xiaoming Yu, Yuanhai Xue, `Baolong Bi`, Huawei Shen, Xueqi Cheng. **Training a Utility-based Retriever Through Shared Context Attribution for Retrieval-Augmented Language Models**. [arxiv](https://arxiv.org/abs/2504.00573) [paper](https://arxiv.org/pdf/2504.00573)
+
 - Yue Liu, Jiaying Wu, Yufei He, Hongcheng Gao, Hongyu Chen, `Baolong Bi`, Jiaheng Zhang, Zhiqi Huang, Bryan Hooi. **Efficient Inference for Large Reasoning Models: A Survey**. [arxiv](https://arxiv.org/abs/2503.23077) [paper](https://arxiv.org/pdf/2503.23077)
 
 - Hongcheng Gao, Jiashu Qu, Jingyi Tang, `Baolong Bi`, Yue Liu, Hongyu Chen, Li Liang, Li Su, Qingming Huang. **Exploring Hallucination of Large Multimodal Models in Video Understanding: Benchmark, Analysis and Mitigation**. [arxiv](https://arxiv.org/abs/2503.19622) [paper](https://arxiv.org/pdf/2503.19622) [huggingface](https://huggingface.co/papers/2503.19622) [github](https://github.com/Hongcheng-Gao/HAVEN/tree/main)

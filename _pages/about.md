@@ -9,7 +9,7 @@ redirect_from:
  
 I am a second-year **Ph.D. student** in Computer Science at [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn), advised by Prof. [Shenghua Liu](https://shenghua-liu.github.io) and [Yiwei Wang](https://wangywust.github.io/). I am a member of [CAS Key Laboratory of AI Security](https://ict.cas.cn/jssgk/zzjg/kyxt/sjzn/js/). My research interests lie in the general area of trustworthy large language models. 
 
-I completed a research internship at [MSRA GenAI](https://www.microsoft.com/en-us/research/group/general-artificial-intelligence/), focusing on post-training for LLMs. I am currently research interning in [Qwen Team](https://www.alibabacloud.com/en/solutions/generative-ai/qwen?_p_lc=1), working on pretraining foundation models.
+I completed a research internship at [MSRA GenAI](https://www.microsoft.com/en-us/research/group/general-artificial-intelligence/), focusing on post-training for LLMs.
 
 I will be visiting the [Language Technologies Institute (LTI)](https://www.lti.cs.cmu.edu/), [Carnegie Mellon University (CMU)](https://www.cmu.edu/) this year for a one-year research stay under the supervision of Prof. [Chenyan Xiong](https://www.cs.cmu.edu/~cx/).
 

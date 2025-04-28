@@ -29,7 +29,7 @@ I will be visiting the [Language Technologies Institute (LTI)](https://www.lti.c
 
 - Zhong-Zhi Li, Duzhen Zhang, Ming-Liang Zhang, Jiaxin Zhang, Zengyan Liu, Yuxuan Yao, Haotian Xu, Junhao Zheng, Pei-Jie Wang, Xiuyi Chen, Yingying Zhang, Fei Yin, Jiahua Dong, Zhiwei Li, `BaoLong Bi`, Ling-Rui Mei, Junfeng Fang, Zhijiang Guo, Le Song, Cheng-Lin Liu. **From System 1 to System 2: A Survey of Reasoning Large Language Models**. [[arxiv]](https://arxiv.org/abs/2502.17419) [[paper]](https://arxiv.org/pdf/2502.17419)
 
-- heng Wang, Yue Liu, `Baolong Bi`, Duzhen Zhang, Zhongzhi Li, Junfeng Fang. **Safety in Large Reasoning Models: A Survey**. [[arxiv]](https://arxiv.org/abs/2504.17704) [[paper]](https://arxiv.org/pdf/2504.17704)
+- Cheng Wang, Yue Liu, `Baolong Bi`, Duzhen Zhang, Zhongzhi Li, Junfeng Fang. **Safety in Large Reasoning Models: A Survey**. [[arxiv]](https://arxiv.org/abs/2504.17704) [[paper]](https://arxiv.org/pdf/2504.17704)
 
 - Lingrui Mei, Shenghua Liu, Yiwei Wang, `Baolong Bi`, Yuyao Ge, Jun Wan, Yurong Wu, Xueqi Cheng. **a1: Steep Test-time Scaling Law via Environment Augmented Generation**. [[arxiv]](https://arxiv.org/abs/2504.14597) [[paper]](https://arxiv.org/pdf/2504.14597)
 

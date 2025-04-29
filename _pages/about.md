@@ -27,7 +27,7 @@ I will be visiting the [Language Technologies Institute (LTI)](https://www.lti.c
 
 ### 2025
 
-- Zhong-Zhi Li, Duzhen Zhang, Ming-Liang Zhang, Jiaxin Zhang, Zengyan Liu, Yuxuan Yao, Haotian Xu, Junhao Zheng, Pei-Jie Wang, Xiuyi Chen, Yingying Zhang, Fei Yin, Jiahua Dong, Zhiwei Li, `BaoLong Bi`, Ling-Rui Mei, Junfeng Fang, Zhijiang Guo, Le Song, Cheng-Lin Liu. **From System 1 to System 2: A Survey of Reasoning Large Language Models**. [[arxiv]](https://arxiv.org/abs/2502.17419) [[paper]](https://arxiv.org/pdf/2502.17419)
+- Zhong-Zhi Li, Duzhen Zhang, Ming-Liang Zhang, Jiaxin Zhang, Zengyan Liu, Yuxuan Yao, Haotian Xu, Junhao Zheng, Pei-Jie Wang, Xiuyi Chen, Yingying Zhang, Fei Yin, Jiahua Dong, Zhiwei Li, `BaoLong Bi`, Ling-Rui Mei, Junfeng Fang, Zhijiang Guo, Le Song, Cheng-Lin Liu. **From System 1 to System 2: A Survey of Reasoning Large Language Models**. [[arxiv]](https://arxiv.org/abs/2502.17419) [[paper]](https://arxiv.org/pdf/2502.17419) [[github]](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM)
 
 - Cheng Wang, Yue Liu, `Baolong Bi`, Duzhen Zhang, Zhongzhi Li, Junfeng Fang. **Safety in Large Reasoning Models: A Survey**. [[arxiv]](https://arxiv.org/abs/2504.17704) [[paper]](https://arxiv.org/pdf/2504.17704)
 
@@ -42,7 +42,7 @@ I will be visiting the [Language Technologies Institute (LTI)](https://www.lti.c
 - Yuyao Ge, Shenghua Liu, Yiwei Wang, Lingrui Mei, Lizhe Chen, `Baolong Bi`, Xueqi Cheng. **Innate Reasoning is Not Enough: In-Context Learning Enhances Reasoning Large Language Models with Less Overthinking**. [[arxiv]](https://arxiv.org/abs/2503.19602) [[paper]](https://arxiv.org/pdf/2503.19602)
 
 - `Baolong Bi`, Shenghua Liu, Yiwei Wang, Yilong Xu, Junfeng Fang, Lingrui Mei, Xueqi Cheng. **Parameters vs. Context: Fine-Grained Control of Knowledge Reliance in Language Models**.
-[[arxiv]](https://arxiv.org/abs/2503.15888) [[paper]](https://arxiv.org/pdf/2503.15888)
+[[arxiv]](https://arxiv.org/abs/2503.15888) [[paper]](https://arxiv.org/pdf/2503.15888) [[github]](https://github.com/byronBBL/CK-PLUG)
 
 - Shiyu Ni, Keping Bi, Jiafeng Guo, Lulu Yu, `Baolong Bi`, Xueqi Cheng. **Towards Fully Exploiting LLM Internal States to Enhance Knowledge
 Boundary Perception**. [[arxiv]](https://arxiv.org/abs/2502.11677) [[paper]](https://arxiv.org/pdf/2502.11677)

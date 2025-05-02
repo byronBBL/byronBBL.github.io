@@ -15,6 +15,7 @@ I will be visiting the [Language Technologies Institute (LTI)](https://www.lti.c
 
 
 ##  **🔥 News**
+- `2025-05`: One paper accepted to *ICML 2025*
 - `2025-01`: Three papers accepted to *ICLR 2025*, *WWW 2025*, and *NAACL 2025*.
 - `2024-11`: One paper accepted to *COLING 2025*
 - `2024-09`: Two papers accepted to *EMNLP 2024*

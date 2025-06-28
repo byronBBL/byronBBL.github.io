@@ -9,9 +9,9 @@ redirect_from:
  
 I am a second-year **Ph.D. student** in Computer Science at [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn), advised by Prof. [Shenghua Liu](https://shenghua-liu.github.io) and [Yiwei Wang](https://wangywust.github.io/). I am a member of [CAS Key Laboratory of AI Security](https://ict.cas.cn/jssgk/zzjg/kyxt/sjzn/js/). My research interests lie in the general area of trustworthy large language models. 
 
-I completed a research internship at [MSRA GenAI](https://www.microsoft.com/en-us/research/group/general-artificial-intelligence/), focusing on post-training for LLMs.
+I completed a research internship at [MSRA GenAI](https://www.microsoft.com/en-us/research/group/general-artificial-intelligence/) group and subsequently interned with  [Qwen Team](https://www.alibabacloud.com/en/solutions/generative-ai/qwen?_p_lc=1), where I worked on pretraining foundation models and served as a core contributor to the latest Qwen backbone model.
 
-I will be visiting the [Language Technologies Institute (LTI)](https://www.lti.cs.cmu.edu/), [Carnegie Mellon University (CMU)](https://www.cmu.edu/) this year for a one-year research stay under the supervision of Prof. [Chenyan Xiong](https://www.cs.cmu.edu/~cx/).
+I am currently visiting the [Language Technologies Institute (LTI)](https://www.lti.cs.cmu.edu/), [Carnegie Mellon University (CMU)](https://www.cmu.edu/) this year for a one-year research stay under the supervision of Prof. [Chenyan Xiong](https://www.cs.cmu.edu/~cx/).
 
 
 ##  **🔥 News**
@@ -28,6 +28,10 @@ I will be visiting the [Language Technologies Institute (LTI)](https://www.lti.c
 {% endif %}
 
 ### 2025
+
+- Jiayu Yao, Shenghua Liu, Yiwei Wang, Lingrui Mei, Baolong Bi, Yuyao Ge, Zhecheng Li, Xueqi Cheng. **Who is in the Spotlight: The Hidden Bias Undermining Multimodal Retrieval-Augmented Generation** [[arxiv]](https://arxiv.org/abs/2506.11063) [[paper]](https://arxiv.org/pdf/2506.11063)
+
+-	Zehao Li, Hao Jiang, Yujun Cai, Jianing Chen, `Baolong Bi`, Shuqin Gao, Honglong Zhao, Yiwei Wang, Tianlu Mao, Zhaoqi Wang. **STDR: Spatio-Temporal Decoupling for Real-Time Dynamic Scene Rendering**. [[arxiv]](https://arxiv.org/abs/2505.22400) [[paper]](https://arxiv.org/pdf/2505.22400)
 
 - Zhong-Zhi Li, Duzhen Zhang, Ming-Liang Zhang, Jiaxin Zhang, Zengyan Liu, Yuxuan Yao, Haotian Xu, Junhao Zheng, Pei-Jie Wang, Xiuyi Chen, Yingying Zhang, Fei Yin, Jiahua Dong, Zhiwei Li, `BaoLong Bi`, Ling-Rui Mei, Junfeng Fang, Zhijiang Guo, Le Song, Cheng-Lin Liu. **From System 1 to System 2: A Survey of Reasoning Large Language Models**. [[arxiv]](https://arxiv.org/abs/2502.17419) [[paper]](https://arxiv.org/pdf/2502.17419) [[github]](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM)
 

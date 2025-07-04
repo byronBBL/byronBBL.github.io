@@ -101,6 +101,7 @@ Boundary Perception**. [[arxiv]](https://arxiv.org/abs/2502.11677) [[paper]](htt
   - Conference on Empirical Language Modeling (COLM) 2025
   - Conference on Neural Information Processing Systems (NeurIPS) 2025
   - Conference on NeurIPS Datasets and Benchmarks Track 2025
+  - ACM International Conference on Information and Knowledge Management (CIKM) 2025
 
 ## **🎓 Education**
 - **Institute of Computing Technology, Chinese Academy of Sciences**  

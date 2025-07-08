@@ -13,6 +13,12 @@ author_profile: true
 
 ### 2025
 
+- `Baolong Bi`, Shenghua Liu, Xingzhang Ren, Dayiheng Liu, Junyang Lin, Yiwei Wang, Lingrui Mei, Junfeng Fang, Jiafeng Guo, Xueqi Cheng. **RefineX: Learning to Refine Pre-training Data at Scale from Expert-Guided Programs** [[arxiv]](https://arxiv.org/abs/2507.03253) [[paper]](https://arxiv.org/pdf/2507.03253)
+
+- Juan Chen, `Baolong Bi`<sup>*</sup>, Wei Zhang, Jingyan Sui, Xiaofei Zhu, Yuanzhuo Wang, Lingrui Mei, Shenghua Liu. **Rethinking All Evidence: Enhancing Trustworthy Retrieval-Augmented Generation via Conflict-Driven Summarization** [[arxiv]](https://arxiv.org/abs/2507.01281) [[paper]](https://arxiv.org/pdf/2507.01281)
+
+- Jiayu Yao, Shenghua Liu, Yiwei Wang, Lingrui Mei, `Baolong Bi`, Yuyao Ge, Zhecheng Li, Xueqi Cheng. **Who is in the Spotlight: The Hidden Bias Undermining Multimodal Retrieval-Augmented Generation** [[arxiv]](https://arxiv.org/abs/2506.11063) [[paper]](https://arxiv.org/pdf/2506.11063)
+
 - Zhong-Zhi Li, Duzhen Zhang, Ming-Liang Zhang, Jiaxin Zhang, Zengyan Liu, Yuxuan Yao, Haotian Xu, Junhao Zheng, Pei-Jie Wang, Xiuyi Chen, Yingying Zhang, Fei Yin, Jiahua Dong, Zhiwei Li, `BaoLong Bi`, Ling-Rui Mei, Junfeng Fang, Zhijiang Guo, Le Song, Cheng-Lin Liu. **From System 1 to System 2: A Survey of Reasoning Large Language Models**. [[arxiv]](https://arxiv.org/abs/2502.17419) [[paper]](https://arxiv.org/pdf/2502.17419)
 
 - Cheng Wang, Yue Liu, `Baolong Bi`, Duzhen Zhang, Zhongzhi Li, Junfeng Fang. **Safety in Large Reasoning Models: A Survey**. [[arxiv]](https://arxiv.org/abs/2504.17704) [[paper]](https://arxiv.org/pdf/2504.17704)

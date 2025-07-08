@@ -24,12 +24,18 @@ I am currently visiting the [Language Technologies Institute (LTI)](https://www.
 
 ## **📚 Publications**
 {% if site.author.googlescholar %}
-<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>. <sup>*</sup>marks the corresponding author</div>
 {% endif %}
+
+
 
 ### 2025
 
-- Jiayu Yao, Shenghua Liu, Yiwei Wang, Lingrui Mei, Baolong Bi, Yuyao Ge, Zhecheng Li, Xueqi Cheng. **Who is in the Spotlight: The Hidden Bias Undermining Multimodal Retrieval-Augmented Generation** [[arxiv]](https://arxiv.org/abs/2506.11063) [[paper]](https://arxiv.org/pdf/2506.11063)
+- `Baolong Bi`, Shenghua Liu, Xingzhang Ren, Dayiheng Liu, Junyang Lin, Yiwei Wang, Lingrui Mei, Junfeng Fang, Jiafeng Guo, Xueqi Cheng. **RefineX: Learning to Refine Pre-training Data at Scale from Expert-Guided Programs** [[arxiv]](https://arxiv.org/abs/2507.03253) [[paper]](https://arxiv.org/pdf/2507.03253)
+
+- Juan Chen, `Baolong Bi`<sup>*</sup>, Wei Zhang, Jingyan Sui, Xiaofei Zhu, Yuanzhuo Wang, Lingrui Mei, Shenghua Liu. **Rethinking All Evidence: Enhancing Trustworthy Retrieval-Augmented Generation via Conflict-Driven Summarization** [[arxiv]](https://arxiv.org/abs/2507.01281) [[paper]](https://arxiv.org/pdf/2507.01281)
+
+- Jiayu Yao, Shenghua Liu, Yiwei Wang, Lingrui Mei, `Baolong Bi`, Yuyao Ge, Zhecheng Li, Xueqi Cheng. **Who is in the Spotlight: The Hidden Bias Undermining Multimodal Retrieval-Augmented Generation** [[arxiv]](https://arxiv.org/abs/2506.11063) [[paper]](https://arxiv.org/pdf/2506.11063)
 
 -	Zehao Li, Hao Jiang, Yujun Cai, Jianing Chen, `Baolong Bi`, Shuqin Gao, Honglong Zhao, Yiwei Wang, Tianlu Mao, Zhaoqi Wang. **STDR: Spatio-Temporal Decoupling for Real-Time Dynamic Scene Rendering**. [[arxiv]](https://arxiv.org/abs/2505.22400) [[paper]](https://arxiv.org/pdf/2505.22400)
 

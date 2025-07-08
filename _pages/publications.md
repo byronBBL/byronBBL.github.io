@@ -19,6 +19,8 @@ author_profile: true
 
 - Jiayu Yao, Shenghua Liu, Yiwei Wang, Lingrui Mei, `Baolong Bi`, Yuyao Ge, Zhecheng Li, Xueqi Cheng. **Who is in the Spotlight: The Hidden Bias Undermining Multimodal Retrieval-Augmented Generation** [[arxiv]](https://arxiv.org/abs/2506.11063) [[paper]](https://arxiv.org/pdf/2506.11063)
 
+-	Zehao Li, Hao Jiang, Yujun Cai, Jianing Chen, `Baolong Bi`, Shuqin Gao, Honglong Zhao, Yiwei Wang, Tianlu Mao, Zhaoqi Wang. **STDR: Spatio-Temporal Decoupling for Real-Time Dynamic Scene Rendering**. [[arxiv]](https://arxiv.org/abs/2505.22400) [[paper]](https://arxiv.org/pdf/2505.22400)
+
 - Zhong-Zhi Li, Duzhen Zhang, Ming-Liang Zhang, Jiaxin Zhang, Zengyan Liu, Yuxuan Yao, Haotian Xu, Junhao Zheng, Pei-Jie Wang, Xiuyi Chen, Yingying Zhang, Fei Yin, Jiahua Dong, Zhiwei Li, `BaoLong Bi`, Ling-Rui Mei, Junfeng Fang, Zhijiang Guo, Le Song, Cheng-Lin Liu. **From System 1 to System 2: A Survey of Reasoning Large Language Models**. [[arxiv]](https://arxiv.org/abs/2502.17419) [[paper]](https://arxiv.org/pdf/2502.17419)
 
 - Cheng Wang, Yue Liu, `Baolong Bi`, Duzhen Zhang, Zhongzhi Li, Junfeng Fang. **Safety in Large Reasoning Models: A Survey**. [[arxiv]](https://arxiv.org/abs/2504.17704) [[paper]](https://arxiv.org/pdf/2504.17704)

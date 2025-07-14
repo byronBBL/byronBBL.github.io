@@ -116,7 +116,6 @@ Boundary Perception**. [[arxiv]](https://arxiv.org/abs/2502.11677) [[paper]](htt
 
 - **Chongqing University**  
   *B.E. in Computer Science (Excellent)* (2019 - 2023)  
-  Advisor: Prof. [Chengliang Wang](http://www.cs.cqu.edu.cn/info/1352/4177.htm)
 
 ## **🏆 Honors and Awards**
   - 2021 Bronze medal in ICPC China National Programming Contest

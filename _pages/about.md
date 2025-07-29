@@ -31,9 +31,11 @@ I am currently visiting the [Language Technologies Institute (LTI)](https://www.
 
 ### 2025
 
-- Lingrui Mei, Jiayu Yao, Yuyao Ge, Yiwei Wang, `Baolong Bi`, Yujun Cai, Jiazhi Liu, Mingyu Li, Zhong-Zhi Li, Duzhen Zhang, Chenlin Zhou, Jiayi Mao, Tianze Xia, Jiafeng Guo, Shenghua Liu. **A Survey of Context Engineering for Large Language Models** [[arxiv]](https://arxiv.org/abs/2507.13334) [[paper]](https://arxiv.org/pdf/2507.13334)
+- Hongcheng Gao, Zihao Huang, Lin Xu, Jingyi Tang, Xinhao Li, Yue Liu, Haoyang Li, Taihang Hu, Minhua Lin, Xinlong Yang, Ge Wu, `Balong Bi`, Hongyu Chen, Wentao Zhang. **Pixels, Patterns, but No Poetry: To See The World like Humans** [[arxiv]](https://arxiv.org/abs/2507.16863) [[paper]](https://arxiv.org/pdf/2507.16863)
 
-- `Baolong Bi`, Shenghua Liu, Xingzhang Ren, Dayiheng Liu, Junyang Lin, Yiwei Wang, Lingrui Mei, Junfeng Fang, Jiafeng Guo, Xueqi Cheng. **RefineX: Learning to Refine Pre-training Data at Scale from Expert-Guided Programs** [[arxiv]](https://arxiv.org/abs/2507.03253) [[paper]](https://arxiv.org/pdf/2507.03253)
+- Lingrui Mei, Jiayu Yao, Yuyao Ge, Yiwei Wang, `Baolong Bi`, Yujun Cai, Jiazhi Liu, Mingyu Li, Zhong-Zhi Li, Duzhen Zhang, Chenlin Zhou, Jiayi Mao, Tianze Xia, Jiafeng Guo, Shenghua Liu. **A Survey of Context Engineering for Large Language Models** [[arxiv]](https://arxiv.org/abs/2507.13334) [[paper]](https://arxiv.org/pdf/2507.13334 [page](https://turingeyetest.github.io/))
+
+- `Baolong Bi`, Shenghua Liu, Xingzhang Ren, Dayiheng Liu, Junyang Lin, Yiwei Wang, Lingrui Mei, Junfeng Fang, Jiafeng Guo, Xueqi Cheng. **RefineX: Learning to Refine Pre-training Data at Scale from Expert-Guided Programs** [[arxiv]](https://arxiv.org/abs/2507.03253) [[paper]](https://arxiv.org/pdf/2507.03253 [code](https://github.com/byronBBL/RefineX))
 
 - Juan Chen, `Baolong Bi`<sup>*</sup>, Wei Zhang, Jingyan Sui, Xiaofei Zhu, Yuanzhuo Wang, Lingrui Mei, Shenghua Liu. **Rethinking All Evidence: Enhancing Trustworthy Retrieval-Augmented Generation via Conflict-Driven Summarization** [[arxiv]](https://arxiv.org/abs/2507.01281) [[paper]](https://arxiv.org/pdf/2507.01281)
 

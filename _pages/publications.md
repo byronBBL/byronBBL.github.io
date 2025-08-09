@@ -13,6 +13,8 @@ author_profile: true
 
 ### 2025
 
+- Yutong Wang, Pengliang Ji, Kaixin Li, `Baolong Bi`, Tao Feng, Guillaume Sartoretti. **Beyond Policy Optimization: A Data Curation Flywheel for Sparse-Reward Long-Horizon Planning** [[arxiv]](https://arxiv.org/abs/2508.03018) [[paper]](https://arxiv.org/pdf/2508.03018)
+
 - Hongcheng Gao, Zihao Huang, Lin Xu, Jingyi Tang, Xinhao Li, Yue Liu, Haoyang Li, Taihang Hu, Minhua Lin, Xinlong Yang, Ge Wu, `Balong Bi`, Hongyu Chen, Wentao Zhang. **Pixels, Patterns, but No Poetry: To See The World like Humans** [[arxiv]](https://arxiv.org/abs/2507.16863) [[paper]](https://arxiv.org/pdf/2507.16863)
 
 - Lingrui Mei, Jiayu Yao, Yuyao Ge, Yiwei Wang, `Baolong Bi`, Yujun Cai, Jiazhi Liu, Mingyu Li, Zhong-Zhi Li, Duzhen Zhang, Chenlin Zhou, Jiayi Mao, Tianze Xia, Jiafeng Guo, Shenghua Liu. **A Survey of Context Engineering for Large Language Models** [[arxiv]](https://arxiv.org/abs/2507.13334) [[paper]](https://arxiv.org/pdf/2507.13334)

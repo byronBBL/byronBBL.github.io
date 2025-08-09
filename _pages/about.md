@@ -33,9 +33,9 @@ I am currently visiting the [Language Technologies Institute (LTI)](https://www.
 
 - Yutong Wang, Pengliang Ji, Kaixin Li, `Baolong Bi`, Tao Feng, Guillaume Sartoretti. **Beyond Policy Optimization: A Data Curation Flywheel for Sparse-Reward Long-Horizon Planning** [[arxiv]](https://arxiv.org/abs/2508.03018) [[paper]](https://arxiv.org/pdf/2508.03018)
 
-- Hongcheng Gao, Zihao Huang, Lin Xu, Jingyi Tang, Xinhao Li, Yue Liu, Haoyang Li, Taihang Hu, Minhua Lin, Xinlong Yang, Ge Wu, `Balong Bi`, Hongyu Chen, Wentao Zhang. **Pixels, Patterns, but No Poetry: To See The World like Humans** [[arxiv]](https://arxiv.org/abs/2507.16863) [[paper]](https://arxiv.org/pdf/2507.16863)
+- Hongcheng Gao, Zihao Huang, Lin Xu, Jingyi Tang, Xinhao Li, Yue Liu, Haoyang Li, Taihang Hu, Minhua Lin, Xinlong Yang, Ge Wu, `Balong Bi`, Hongyu Chen, Wentao Zhang. **Pixels, Patterns, but No Poetry: To See The World like Humans** [[arxiv]](https://arxiv.org/abs/2507.16863) [[paper]](https://arxiv.org/pdf/2507.16863) [page](https://turingeyetest.github.io/) [[github]](https://github.com/Meirtz/Awesome-Context-Engineering)
 
-- Lingrui Mei, Jiayu Yao, Yuyao Ge, Yiwei Wang, `Baolong Bi`, Yujun Cai, Jiazhi Liu, Mingyu Li, Zhong-Zhi Li, Duzhen Zhang, Chenlin Zhou, Jiayi Mao, Tianze Xia, Jiafeng Guo, Shenghua Liu. **A Survey of Context Engineering for Large Language Models** [[arxiv]](https://arxiv.org/abs/2507.13334) [[paper]](https://arxiv.org/pdf/2507.13334 [page](https://turingeyetest.github.io/))
+- Lingrui Mei, Jiayu Yao, Yuyao Ge, Yiwei Wang, `Baolong Bi`, Yujun Cai, Jiazhi Liu, Mingyu Li, Zhong-Zhi Li, Duzhen Zhang, Chenlin Zhou, Jiayi Mao, Tianze Xia, Jiafeng Guo, Shenghua Liu. **A Survey of Context Engineering for Large Language Models** [[arxiv]](https://arxiv.org/abs/2507.13334) [[paper]](https://arxiv.org/pdf/2507.13334) 
 
 - `Baolong Bi`, Shenghua Liu, Xingzhang Ren, Dayiheng Liu, Junyang Lin, Yiwei Wang, Lingrui Mei, Junfeng Fang, Jiafeng Guo, Xueqi Cheng. **RefineX: Learning to Refine Pre-training Data at Scale from Expert-Guided Programs** [[arxiv]](https://arxiv.org/abs/2507.03253) [[paper]](https://arxiv.org/pdf/2507.03253) [[code]](https://github.com/byronBBL/RefineX)
 

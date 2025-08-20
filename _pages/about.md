@@ -15,6 +15,7 @@ I am currently visiting the [Language Technologies Institute (LTI)](https://www.
 
 
 ##  **🔥 News**
+- `2025-08`: Four papesr accepted to *EMNLP 2025*
 - `2025-05`: Five papesr accepted to *ACL 2025*
 - `2025-05`: One paper accepted to *ICML 2025*
 - `2025-01`: Three papers accepted to *ICLR 2025*, *WWW 2025*, and *NAACL 2025*.

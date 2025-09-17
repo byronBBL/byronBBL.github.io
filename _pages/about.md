@@ -15,7 +15,7 @@ I am currently visiting the [Language Technologies Institute (LTI)](https://www.
 
 
 ##  **🔥 News**
-- `2025-09`: One paper is selected for an ORAL presentation at *EMNLP 2025*.
+- `2025-09`: One paper is selected for an **ORAL** presentation at *EMNLP 2025*.
 - `2025-08`: Four papers accepted to *EMNLP 2025*
 - `2025-05`: Five papers accepted to *ACL 2025*
 - `2025-05`: One paper accepted to *ICML 2025*

@@ -7,7 +7,7 @@ redirect_from:
 - /about.html
 ---
  
-I am a second-year **Ph.D. student** in Computer Science at [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn), advised by Prof. [Shenghua Liu](https://shenghua-liu.github.io) and [Yiwei Wang](https://wangywust.github.io/). I am a member of [CAS Key Laboratory of AI Security](https://ict.cas.cn/jssgk/zzjg/kyxt/sjzn/js/). My research interests lie in the general area of trustworthy large language models. 
+I am a third-year **Ph.D. student** in Computer Science at [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn), advised by Prof. [Shenghua Liu](https://shenghua-liu.github.io) and [Yiwei Wang](https://wangywust.github.io/). I am a member of [CAS Key Laboratory of AI Security](https://ict.cas.cn/jssgk/zzjg/kyxt/sjzn/js/). My research interests lie in the general area of trustworthy large language models. 
 
 I completed a research internship at [MSRA GenAI](https://www.microsoft.com/en-us/research/group/general-artificial-intelligence/) group and subsequently interned with  [Qwen Team](https://www.alibabacloud.com/en/solutions/generative-ai/qwen?_p_lc=1), where I worked on pretraining foundation models and served as a core contributor to the latest Qwen backbone model.
 
@@ -118,11 +118,3 @@ Boundary Perception**. [[arxiv]](https://arxiv.org/abs/2502.11677) [[paper]](htt
   - Conference on Neural Information Processing Systems (NeurIPS) 2025
   - Conference on NeurIPS Datasets and Benchmarks Track 2025
   - ACM International Conference on Information and Knowledge Management (CIKM) 2025
-
-## **🎓 Education**
-- **Institute of Computing Technology, Chinese Academy of Sciences**  
-  *Ph.D. in Computer Science* (2023 - present)  
-  Advisor: Prof. [Shenghua Liu](https://shenghua-liu.github.io) and [Yiwei Wang](https://wangywust.github.io/)
-
-- **Chongqing University**  
-  *B.E. in Computer Science (Excellent)* (2019 - 2023)  

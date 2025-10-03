@@ -13,6 +13,8 @@ author_profile: true
 
 ### 2025
 
+- Wen Tao, Jing Tang, Alvin Chan, Bryan Hooi, `Baolong Bi`, Nanyun Peng, Yuansheng Liu, Yiwei Wang. **How to Make Large Language Models Generate 100% Valid Molecules?** [[arxiv]](https://arxiv.org/abs/2509.23099) [[paper]](https://arxiv.org/pdf/2509.23099)
+
 - Yutong Wang, Pengliang Ji, Kaixin Li, `Baolong Bi`, Tao Feng, Guillaume Sartoretti. **Beyond Policy Optimization: A Data Curation Flywheel for Sparse-Reward Long-Horizon Planning** [[arxiv]](https://arxiv.org/abs/2508.03018) [[paper]](https://arxiv.org/pdf/2508.03018)
 
 - Hongcheng Gao, Zihao Huang, Lin Xu, Jingyi Tang, Xinhao Li, Yue Liu, Haoyang Li, Taihang Hu, Minhua Lin, Xinlong Yang, Ge Wu, `Balong Bi`, Hongyu Chen, Wentao Zhang. **Pixels, Patterns, but No Poetry: To See The World like Humans** [[arxiv]](https://arxiv.org/abs/2507.16863) [[paper]](https://arxiv.org/pdf/2507.16863)

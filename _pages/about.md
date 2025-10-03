@@ -33,6 +33,8 @@ I am currently visiting the [Language Technologies Institute (LTI)](https://www.
 
 ### 2025
 
+- Wen Tao, Jing Tang, Alvin Chan, Bryan Hooi, `Baolong Bi`, Nanyun Peng, Yuansheng Liu, Yiwei Wang. **How to Make Large Language Models Generate 100% Valid Molecules?** [[arxiv]](https://arxiv.org/abs/2509.23099) [[paper]](https://arxiv.org/pdf/2509.23099)
+
 - Yuyao Ge, Shenghua Liu, Yiwei Wang, Lingrui Mei, `Baolong Bi`, Xuanshan Zhou, Jiayu Yao, Jiafeng Guo, Xueqi Cheng. **Focusing by Contrastive Attention: Enhancing VLMs' Visual Reasoning** [[arxiv]](https://arxiv.org/abs/2509.06461) [[paper]](https://arxiv.org/pdf/2509.06461)
 
 - Yutong Wang, Pengliang Ji, Kaixin Li, `Baolong Bi`, Tao Feng, Guillaume Sartoretti. **Beyond Policy Optimization: A Data Curation Flywheel for Sparse-Reward Long-Horizon Planning** [[arxiv]](https://arxiv.org/abs/2508.03018) [[paper]](https://arxiv.org/pdf/2508.03018)

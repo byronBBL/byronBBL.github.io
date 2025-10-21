@@ -33,6 +33,12 @@ I am currently visiting the [Language Technologies Institute (LTI)](https://www.
 
 ### 2025
 
+- Jiayu Yao, Shenghua Liu, Yiwei Wang, Rundong Cheng, Lingrui Mei, `Baolong Bi`, Zhen Xiong, Xueqi Cheng **Not in Sync: Unveiling Temporal Bias in Audio Chat Models** [[arxiv]](https://arxiv.org/abs/2510.12185) [[paper]](https://arxiv.org/pdf/2510.12185)
+
+- Linfeng Gao, `Baolong Bi`, Zheng Yuan, Le Wang, Zerui Chen, Zhimin Wei, Shenghua Liu, Qinggang Zhang, Jinsong Su. **Probing Latent Knowledge Conflict for Faithful Retrieval-Augmented Generation** [[arxiv]](https://arxiv.org/abs/2510.12460) [[paper]](https://arxiv.org/pdf/2510.12460)
+
+- Yuyao Ge, Lingrui Mei, Zenghao Duan, Tianhao Li, Yujia Zheng, Yiwei Wang, Lexin Wang, Jiayu Yao, Tianyu Liu, Yujun Cai, `Baolong Bi`, Fangda Guo, Jiafeng Guo, Shenghua Liu, Xueqi Cheng. **A Survey of Vibe Coding with Large Language Models** [[arxiv]](https://arxiv.org/abs/2510.12399) [[paper]](https://arxiv.org/pdf/2510.12399)
+
 - Wen Tao, Jing Tang, Alvin Chan, Bryan Hooi, `Baolong Bi`, Nanyun Peng, Yuansheng Liu, Yiwei Wang. **How to Make Large Language Models Generate 100% Valid Molecules?** [[arxiv]](https://arxiv.org/abs/2509.23099) [[paper]](https://arxiv.org/pdf/2509.23099)
 
 - Yuyao Ge, Shenghua Liu, Yiwei Wang, Lingrui Mei, `Baolong Bi`, Xuanshan Zhou, Jiayu Yao, Jiafeng Guo, Xueqi Cheng. **Focusing by Contrastive Attention: Enhancing VLMs' Visual Reasoning** [[arxiv]](https://arxiv.org/abs/2509.06461) [[paper]](https://arxiv.org/pdf/2509.06461)

@@ -13,6 +13,12 @@ author_profile: true
 
 ### 2025
 
+- Jiayu Yao, Shenghua Liu, Yiwei Wang, Rundong Cheng, Lingrui Mei, `Baolong Bi`, Zhen Xiong, Xueqi Cheng **Not in Sync: Unveiling Temporal Bias in Audio Chat Models** [[arxiv]](https://arxiv.org/abs/2510.12185) [[paper]](https://arxiv.org/pdf/2510.12185)
+
+- Linfeng Gao, `Baolong Bi`, Zheng Yuan, Le Wang, Zerui Chen, Zhimin Wei, Shenghua Liu, Qinggang Zhang, Jinsong Su. **Probing Latent Knowledge Conflict for Faithful Retrieval-Augmented Generation** [[arxiv]](https://arxiv.org/abs/2510.12460) [[paper]](https://arxiv.org/pdf/2510.12460)
+
+- Yuyao Ge, Lingrui Mei, Zenghao Duan, Tianhao Li, Yujia Zheng, Yiwei Wang, Lexin Wang, Jiayu Yao, Tianyu Liu, Yujun Cai, `Baolong Bi`, Fangda Guo, Jiafeng Guo, Shenghua Liu, Xueqi Cheng. **A Survey of Vibe Coding with Large Language Models** [[arxiv]](https://arxiv.org/abs/2510.12399) [[paper]](https://arxiv.org/pdf/2510.12399)
+
 - Wen Tao, Jing Tang, Alvin Chan, Bryan Hooi, `Baolong Bi`, Nanyun Peng, Yuansheng Liu, Yiwei Wang. **How to Make Large Language Models Generate 100% Valid Molecules?** [[arxiv]](https://arxiv.org/abs/2509.23099) [[paper]](https://arxiv.org/pdf/2509.23099)
 
 - Yutong Wang, Pengliang Ji, Kaixin Li, `Baolong Bi`, Tao Feng, Guillaume Sartoretti. **Beyond Policy Optimization: A Data Curation Flywheel for Sparse-Reward Long-Horizon Planning** [[arxiv]](https://arxiv.org/abs/2508.03018) [[paper]](https://arxiv.org/pdf/2508.03018)

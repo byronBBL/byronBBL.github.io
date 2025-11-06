@@ -117,6 +117,16 @@ Boundary Perception**. [[arxiv]](https://arxiv.org/abs/2502.11677) [[paper]](htt
 -	Lingrui Mei, Shenghua Liu, Yiwei Wang, `Baolong Bi`, Xueqi Cheng. **SLANG: New Concept Comprehension of Large Language Models**.
 [[arxiv]](https://arxiv.org/abs/2401.12585) [[paper]](https://arxiv.org/pdf/2401.12585.pdf)
 
+
+## 🏅 Honors & Awards
+- **National Scholarship**, Ministry of Education of China · 2025  
+- **Future Star**, Ministry of Education · 2021  
+- **Bronze Medal**, International Collegiate Programming Contest (ICPC) · 2021  
+- **First Prize**, National College Student Mathematical Modeling Contest · 2020  
+- **First Class Scholarship**, Chongqing University · 2020  
+- **First Prize**, National Olympiads in Informatics · 2017  
+
+
 ## **📝 Services**
 - **Reviewer for**  
   - International Conference on Learning Representations (ICLR) 2025 
@@ -126,3 +136,4 @@ Boundary Perception**. [[arxiv]](https://arxiv.org/abs/2502.11677) [[paper]](htt
   - Conference on Neural Information Processing Systems (NeurIPS) 2025
   - Conference on NeurIPS Datasets and Benchmarks Track 2025
   - ACM International Conference on Information and Knowledge Management (CIKM) 2025
+ 

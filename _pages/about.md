@@ -6,12 +6,11 @@ redirect_from:
 - /about/
 - /about.html
 ---
- 
-I am a third-year **Ph.D. student** in Computer Science at [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn), advised by Prof. [Shenghua Liu](https://shenghua-liu.github.io) and [Yiwei Wang](https://wangywust.github.io/). I am a member of [CAS Key Laboratory of AI Security](https://ict.cas.cn/jssgk/zzjg/kyxt/sjzn/js/). My research interests lie in the general area of trustworthy large language models. 
 
-I completed a research internship at [MSRA GenAI](https://www.microsoft.com/en-us/research/group/general-artificial-intelligence/) group and subsequently interned with  [Qwen Team](https://www.alibabacloud.com/en/solutions/generative-ai/qwen?_p_lc=1), where I worked on pretraining foundation models and served as a core contributor to the latest Qwen backbone model.
+Hello, I’m Baolong Bi (毕宝龙), a third-year Ph.D. student in Computer Science at [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn), advised by Prof. [Shenghua Liu](https://shenghua-liu.github.io) and [Yiwei Wang](https://wangywust.github.io/). I am also fortunate to have received valuable guidance from Prof. [Xueqi Cheng](https://scholar.google.com/citations?user=hY8aLqAAAAAJ&hl=en). My research interests lie in the broad area of trustworthy large language models, with a focus on reliability, factuality, and robust knowledge utilization in LLMs.
 
-I am currently visiting the [Language Technologies Institute (LTI)](https://www.lti.cs.cmu.edu/), [Carnegie Mellon University (CMU)](https://www.cmu.edu/) this year for a one-year research stay under the supervision of Prof. [Chenyan Xiong](https://www.cs.cmu.edu/~cx/).
+I completed a research internship at [MSRA GenAI](https://www.microsoft.com/en-us/research/group/general-artificial-intelligence/), advised by [Shaohan Huang](https://scholar.google.com/citations?user=w_QWEo8AAAAJ&hl=en), and subsequently interned with the [Qwen Team](https://www.alibabacloud.com/en/solutions/generative-ai/qwen?_p_lc=1), working closely with [Dayiheng Liu](https://scholar.google.com/citations?user=pPLQrX4AAAAJ&hl=zh-CN), where I worked on pretraining foundation models and served as a core contributor to the latest Qwen backbone.
+I was also a visiting research scholar at the Language Technologies Institute (LTI), Carnegie Mellon University, working with Prof. [Chenyan Xiong](https://www.cs.cmu.edu/~cx/) and Prof. [Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherryw/).
 
 
 ##  **🔥 News**

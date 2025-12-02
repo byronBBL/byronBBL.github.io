@@ -13,6 +13,8 @@ author_profile: true
 
 ### 2025
 
+- `Baolong Bi`, Shenghua Liu, Yiwei Wang, Siqian Tong, Lingrui Mei, Yuyao Ge, Yilong Xu, Jiafeng Guo, Xueqi Cheng. **Reward and Guidance through Rubrics: Promoting Exploration to Improve Multi-Domain Reasoning** [[arxiv]](https://arxiv.org/abs/2511.12344) [[paper]](https://arxiv.org/pdf/2511.12344)
+
 - Jiayu Yao, Shenghua Liu, Yiwei Wang, Rundong Cheng, Lingrui Mei, `Baolong Bi`, Zhen Xiong, Xueqi Cheng **Not in Sync: Unveiling Temporal Bias in Audio Chat Models** [[arxiv]](https://arxiv.org/abs/2510.12185) [[paper]](https://arxiv.org/pdf/2510.12185)
 
 - Linfeng Gao, `Baolong Bi`, Zheng Yuan, Le Wang, Zerui Chen, Zhimin Wei, Shenghua Liu, Qinggang Zhang, Jinsong Su. **Probing Latent Knowledge Conflict for Faithful Retrieval-Augmented Generation** [[arxiv]](https://arxiv.org/abs/2510.12460) [[paper]](https://arxiv.org/pdf/2510.12460)

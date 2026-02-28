@@ -29,7 +29,15 @@ I was also a visiting research scholar at the Language Technologies Institute (L
 <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>. <sup>*</sup>marks the corresponding author</div>
 {% endif %}
 
+### 2026
 
+- `Baolong Bi`, Yuyao Ge, Shenghua Liu, Yuchen He, Siqian Tong, Lizhe Chen, Lingrui Mei, Zehao Li, Yiwei Wang, Yujun Cai, Ming-Hsuan Yang, Xueqi Cheng. **PromptCD: Test-Time Behavior Enhancement via Polarity-Prompt Contrastive Decoding** [[arxiv]](https://arxiv.org/abs/2602.20696) [[paper]](https://arxiv.org/pdf/2602.20696)
+
+- Siqian Tong, Xuan Li, Yiwei Wang, `Baolong Bi`, Yujun Cai, Shenghua Liu, Yuchen He, Chengpeng Hao. **AuTAgent: A Reinforcement Learning Framework for Tool-Augmented Audio Reasoning** [[arxiv]](https://arxiv.org/abs/2602.13685) [[paper]](https://arxiv.org/pdf/2602.13685)
+
+- Yueyang Wang, Jiawei Fu, `Baolong Bi`, Xili Wang, Xiaoqing Liu. **HE-SNR: Uncovering Latent Logic via Entropy for Guiding Mid-Training on SWE-BENCH** [[arxiv]](https://arxiv.org/abs/2601.20255) [[paper]](https://arxiv.org/pdf/2601.20255)
+
+- Lingrui Mei, Shenghua Liu, Yiwei Wang, Yuyao Ge, `Baolong Bi`, Jiayu Yao, Jun Wan, Ziling Yin, Jiafeng Guo, Xueqi Cheng. **Gated Differentiable Working Memory for Long-Context Language Modeling** [[arxiv]](https://arxiv.org/abs/2601.12906) [[paper]](https://arxiv.org/pdf/2601.12906)
 
 ### 2025
 

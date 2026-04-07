@@ -14,6 +14,7 @@ I was also a visiting research scholar at the Language Technologies Institute (L
 
 
 ##  **🔥 News**
+- `2026-04`: Five papers accepted to *ACL 2026*
 - `2026-01`: One paper accepted to *ICLR 2026*
 - `2025-09`: One paper is selected for an **ORAL** presentation at *EMNLP 2025*.
 - `2025-08`: Four papers accepted to *EMNLP 2025*

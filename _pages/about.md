@@ -14,6 +14,8 @@ I was also a visiting research scholar at the Language Technologies Institute (L
 
 
 ##  **🔥 News**
+- `2026-05`: First-Author Paper (*RGR-GRPO*) is selected for **Spotlight** (Top 2.2%) at *ICML 2026*.
+- `2026-05`: Four papers accepted to *ICML 2026*
 - `2026-04`: Five papers accepted to *ACL 2026*
 - `2026-01`: One paper accepted to *ICLR 2026*
 - `2025-09`: One paper is selected for an **ORAL** presentation at *EMNLP 2025*.

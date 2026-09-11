@@ -1,0 +1,662 @@
+{
+  "tasks": [
+    {
+      "key": "arc_c",
+      "label": "ARC-C"
+    },
+    {
+      "key": "arc_e",
+      "label": "ARC-E"
+    },
+    {
+      "key": "csqa",
+      "label": "CSQA"
+    },
+    {
+      "key": "hellaswag",
+      "label": "HellaSwag"
+    },
+    {
+      "key": "mmlu",
+      "label": "MMLU"
+    },
+    {
+      "key": "obqa",
+      "label": "OBQA"
+    },
+    {
+      "key": "piqa",
+      "label": "PIQA"
+    },
+    {
+      "key": "siqa",
+      "label": "SIQA"
+    },
+    {
+      "key": "winogrande",
+      "label": "WinoGrande"
+    },
+    {
+      "key": "sciq",
+      "label": "SciQ"
+    }
+  ],
+  "scales": {
+    "750M": [
+      {
+        "setting": "Raw",
+        "method": "Baseline",
+        "scores": {
+          "arc_c": 24.5,
+          "arc_e": 45.4,
+          "csqa": 30.5,
+          "hellaswag": 38.0,
+          "mmlu": 27.5,
+          "obqa": 28.2,
+          "piqa": 63.8,
+          "siqa": 39.8,
+          "winogrande": 51.0,
+          "sciq": 67.0
+        },
+        "avg": 41.6
+      },
+      {
+        "setting": "Raw",
+        "method": "Prox-C",
+        "scores": {
+          "arc_c": 25.3,
+          "arc_e": 46.5,
+          "csqa": 30.2,
+          "hellaswag": 38.2,
+          "mmlu": 27.8,
+          "obqa": 31.0,
+          "piqa": 66.9,
+          "siqa": 39.9,
+          "winogrande": 51.9,
+          "sciq": 66.4
+        },
+        "avg": 42.4
+      },
+      {
+        "setting": "Raw",
+        "method": "RefineX",
+        "scores": {
+          "arc_c": 25.2,
+          "arc_e": 45.9,
+          "csqa": 32.0,
+          "hellaswag": 39.4,
+          "mmlu": 27.5,
+          "obqa": 31.2,
+          "piqa": 66.3,
+          "siqa": 41.0,
+          "winogrande": 52.5,
+          "sciq": 68.3
+        },
+        "avg": 42.9
+      },
+      {
+        "setting": "Gopher",
+        "method": "Baseline",
+        "scores": {
+          "arc_c": 24.3,
+          "arc_e": 45.1,
+          "csqa": 28.6,
+          "hellaswag": 39.7,
+          "mmlu": 27.1,
+          "obqa": 28.4,
+          "piqa": 66.7,
+          "siqa": 39.4,
+          "winogrande": 50.9,
+          "sciq": 66.9
+        },
+        "avg": 41.7
+      },
+      {
+        "setting": "Gopher",
+        "method": "Prox-C",
+        "scores": {
+          "arc_c": 25.0,
+          "arc_e": 46.0,
+          "csqa": 30.9,
+          "hellaswag": 41.0,
+          "mmlu": 27.8,
+          "obqa": 30.4,
+          "piqa": 66.7,
+          "siqa": 38.4,
+          "winogrande": 51.5,
+          "sciq": 68.4
+        },
+        "avg": 42.6
+      },
+      {
+        "setting": "Gopher",
+        "method": "RefineX",
+        "scores": {
+          "arc_c": 25.0,
+          "arc_e": 48.2,
+          "csqa": 30.4,
+          "hellaswag": 41.4,
+          "mmlu": 28.1,
+          "obqa": 29.0,
+          "piqa": 66.7,
+          "siqa": 40.7,
+          "winogrande": 52.8,
+          "sciq": 69.3
+        },
+        "avg": 43.2
+      },
+      {
+        "setting": "C4",
+        "method": "Baseline",
+        "scores": {
+          "arc_c": 25.3,
+          "arc_e": 44.2,
+          "csqa": 30.9,
+          "hellaswag": 39.3,
+          "mmlu": 27.4,
+          "obqa": 29.4,
+          "piqa": 66.5,
+          "siqa": 39.5,
+          "winogrande": 51.3,
+          "sciq": 67.3
+        },
+        "avg": 42.1
+      },
+      {
+        "setting": "C4",
+        "method": "Prox-C",
+        "scores": {
+          "arc_c": 25.1,
+          "arc_e": 45.5,
+          "csqa": 31.7,
+          "hellaswag": 41.1,
+          "mmlu": 27.9,
+          "obqa": 29.4,
+          "piqa": 66.6,
+          "siqa": 40.1,
+          "winogrande": 51.4,
+          "sciq": 66.6
+        },
+        "avg": 42.5
+      },
+      {
+        "setting": "C4",
+        "method": "RefineX",
+        "scores": {
+          "arc_c": 24.8,
+          "arc_e": 44.5,
+          "csqa": 31.8,
+          "hellaswag": 41.3,
+          "mmlu": 28.1,
+          "obqa": 30.4,
+          "piqa": 68.0,
+          "siqa": 41.2,
+          "winogrande": 50.5,
+          "sciq": 68.2
+        },
+        "avg": 42.9
+      },
+      {
+        "setting": "FineWeb",
+        "method": "Baseline",
+        "scores": {
+          "arc_c": 25.1,
+          "arc_e": 45.6,
+          "csqa": 31.6,
+          "hellaswag": 39.9,
+          "mmlu": 27.2,
+          "obqa": 27.6,
+          "piqa": 66.6,
+          "siqa": 39.3,
+          "winogrande": 49.9,
+          "sciq": 66.2
+        },
+        "avg": 41.9
+      },
+      {
+        "setting": "FineWeb",
+        "method": "Prox-C",
+        "scores": {
+          "arc_c": 25.5,
+          "arc_e": 44.7,
+          "csqa": 30.8,
+          "hellaswag": 39.0,
+          "mmlu": 27.9,
+          "obqa": 29.2,
+          "piqa": 67.4,
+          "siqa": 39.5,
+          "winogrande": 51.3,
+          "sciq": 67.5
+        },
+        "avg": 42.2
+      },
+      {
+        "setting": "FineWeb",
+        "method": "RefineX",
+        "scores": {
+          "arc_c": 26.3,
+          "arc_e": 47.4,
+          "csqa": 31.4,
+          "hellaswag": 40.1,
+          "mmlu": 27.6,
+          "obqa": 30.8,
+          "piqa": 66.6,
+          "siqa": 39.6,
+          "winogrande": 51.5,
+          "sciq": 65.4
+        },
+        "avg": 42.7
+      },
+      {
+        "setting": "Comb",
+        "method": "Baseline",
+        "scores": {
+          "arc_c": 24.3,
+          "arc_e": 44.7,
+          "csqa": 31.0,
+          "hellaswag": 40.4,
+          "mmlu": 27.1,
+          "obqa": 28.6,
+          "piqa": 66.2,
+          "siqa": 39.0,
+          "winogrande": 53.3,
+          "sciq": 66.5
+        },
+        "avg": 42.1
+      },
+      {
+        "setting": "Comb",
+        "method": "Prox-C",
+        "scores": {
+          "arc_c": 24.8,
+          "arc_e": 45.4,
+          "csqa": 31.7,
+          "hellaswag": 41.1,
+          "mmlu": 27.8,
+          "obqa": 29.4,
+          "piqa": 66.7,
+          "siqa": 39.5,
+          "winogrande": 51.7,
+          "sciq": 65.8
+        },
+        "avg": 42.4
+      },
+      {
+        "setting": "Comb",
+        "method": "RefineX",
+        "scores": {
+          "arc_c": 25.5,
+          "arc_e": 46.6,
+          "csqa": 31.4,
+          "hellaswag": 42.1,
+          "mmlu": 27.5,
+          "obqa": 28.0,
+          "piqa": 68.0,
+          "siqa": 39.6,
+          "winogrande": 53.2,
+          "sciq": 65.9
+        },
+        "avg": 42.8
+      },
+      {
+        "setting": "Prox-D",
+        "method": "Baseline",
+        "scores": {
+          "arc_c": 25.1,
+          "arc_e": 45.6,
+          "csqa": 31.6,
+          "hellaswag": 39.9,
+          "mmlu": 27.2,
+          "obqa": 27.6,
+          "piqa": 66.6,
+          "siqa": 39.3,
+          "winogrande": 49.9,
+          "sciq": 67.3
+        },
+        "avg": 42.0
+      },
+      {
+        "setting": "Prox-D",
+        "method": "Prox-C",
+        "scores": {
+          "arc_c": 27.2,
+          "arc_e": 51.0,
+          "csqa": 30.1,
+          "hellaswag": 41.2,
+          "mmlu": 28.9,
+          "obqa": 30.4,
+          "piqa": 65.9,
+          "siqa": 39.4,
+          "winogrande": 50.8,
+          "sciq": 70.2
+        },
+        "avg": 43.5
+      },
+      {
+        "setting": "Prox-D",
+        "method": "RefineX",
+        "scores": {
+          "arc_c": 28.7,
+          "arc_e": 53.2,
+          "csqa": 30.8,
+          "hellaswag": 41.7,
+          "mmlu": 29.6,
+          "obqa": 31.8,
+          "piqa": 67.8,
+          "siqa": 39.9,
+          "winogrande": 51.6,
+          "sciq": 70.9
+        },
+        "avg": 44.7
+      }
+    ],
+    "350M": [
+      {
+        "setting": "Raw",
+        "method": "Baseline",
+        "scores": {
+          "arc_c": 24.2,
+          "arc_e": 39.8,
+          "csqa": 28.7,
+          "hellaswag": 34.6,
+          "mmlu": 26.6,
+          "obqa": 27.2,
+          "piqa": 64.3,
+          "siqa": 38.6,
+          "winogrande": 49.5,
+          "sciq": 62.4
+        },
+        "avg": 39.6
+      },
+      {
+        "setting": "Raw",
+        "method": "Prox-C",
+        "scores": {
+          "arc_c": 24.6,
+          "arc_e": 43.9,
+          "csqa": 29.2,
+          "hellaswag": 35.5,
+          "mmlu": 27.2,
+          "obqa": 27.2,
+          "piqa": 64.5,
+          "siqa": 38.8,
+          "winogrande": 50.1,
+          "sciq": 65.4
+        },
+        "avg": 40.6
+      },
+      {
+        "setting": "Raw",
+        "method": "RefineX",
+        "scores": {
+          "arc_c": 24.5,
+          "arc_e": 44.1,
+          "csqa": 29.4,
+          "hellaswag": 35.1,
+          "mmlu": 27.0,
+          "obqa": 30.4,
+          "piqa": 64.2,
+          "siqa": 39.1,
+          "winogrande": 50.8,
+          "sciq": 65.2
+        },
+        "avg": 41.0
+      },
+      {
+        "setting": "Gopher",
+        "method": "Baseline",
+        "scores": {
+          "arc_c": 23.2,
+          "arc_e": 40.9,
+          "csqa": 28.7,
+          "hellaswag": 34.6,
+          "mmlu": 26.7,
+          "obqa": 28.6,
+          "piqa": 64.2,
+          "siqa": 39.5,
+          "winogrande": 49.7,
+          "sciq": 66.1
+        },
+        "avg": 40.2
+      },
+      {
+        "setting": "Gopher",
+        "method": "Prox-C",
+        "scores": {
+          "arc_c": 23.4,
+          "arc_e": 43.1,
+          "csqa": 28.5,
+          "hellaswag": 36.5,
+          "mmlu": 26.7,
+          "obqa": 26.4,
+          "piqa": 64.8,
+          "siqa": 38.4,
+          "winogrande": 51.6,
+          "sciq": 65.7
+        },
+        "avg": 40.5
+      },
+      {
+        "setting": "Gopher",
+        "method": "RefineX",
+        "scores": {
+          "arc_c": 24.5,
+          "arc_e": 43.6,
+          "csqa": 30.4,
+          "hellaswag": 35.4,
+          "mmlu": 27.0,
+          "obqa": 28.4,
+          "piqa": 66.0,
+          "siqa": 39.5,
+          "winogrande": 50.7,
+          "sciq": 65.9
+        },
+        "avg": 41.1
+      },
+      {
+        "setting": "C4",
+        "method": "Baseline",
+        "scores": {
+          "arc_c": 23.2,
+          "arc_e": 42.2,
+          "csqa": 29.8,
+          "hellaswag": 35.4,
+          "mmlu": 26.3,
+          "obqa": 25.6,
+          "piqa": 64.5,
+          "siqa": 39.3,
+          "winogrande": 49.1,
+          "sciq": 63.7
+        },
+        "avg": 39.9
+      },
+      {
+        "setting": "C4",
+        "method": "Prox-C",
+        "scores": {
+          "arc_c": 23.4,
+          "arc_e": 43.1,
+          "csqa": 28.5,
+          "hellaswag": 36.5,
+          "mmlu": 26.7,
+          "obqa": 26.4,
+          "piqa": 64.8,
+          "siqa": 38.4,
+          "winogrande": 51.6,
+          "sciq": 65.7
+        },
+        "avg": 40.5
+      },
+      {
+        "setting": "C4",
+        "method": "RefineX",
+        "scores": {
+          "arc_c": 24.5,
+          "arc_e": 43.6,
+          "csqa": 29.4,
+          "hellaswag": 35.7,
+          "mmlu": 27.3,
+          "obqa": 30.1,
+          "piqa": 63.9,
+          "siqa": 40.5,
+          "winogrande": 52.2,
+          "sciq": 66.2
+        },
+        "avg": 41.3
+      },
+      {
+        "setting": "FineWeb",
+        "method": "Baseline",
+        "scores": {
+          "arc_c": 23.8,
+          "arc_e": 39.6,
+          "csqa": 28.6,
+          "hellaswag": 35.6,
+          "mmlu": 26.3,
+          "obqa": 27.8,
+          "piqa": 63.3,
+          "siqa": 38.2,
+          "winogrande": 50.3,
+          "sciq": 64.5
+        },
+        "avg": 39.8
+      },
+      {
+        "setting": "FineWeb",
+        "method": "Prox-C",
+        "scores": {
+          "arc_c": 24.4,
+          "arc_e": 43.2,
+          "csqa": 28.2,
+          "hellaswag": 36.0,
+          "mmlu": 27.1,
+          "obqa": 28.2,
+          "piqa": 64.8,
+          "siqa": 38.8,
+          "winogrande": 51.8,
+          "sciq": 64.9
+        },
+        "avg": 40.7
+      },
+      {
+        "setting": "FineWeb",
+        "method": "RefineX",
+        "scores": {
+          "arc_c": 24.2,
+          "arc_e": 43.5,
+          "csqa": 29.4,
+          "hellaswag": 35.8,
+          "mmlu": 26.6,
+          "obqa": 31.0,
+          "piqa": 65.9,
+          "siqa": 39.5,
+          "winogrande": 52.5,
+          "sciq": 66.0
+        },
+        "avg": 41.4
+      },
+      {
+        "setting": "Comb",
+        "method": "Baseline",
+        "scores": {
+          "arc_c": 24.5,
+          "arc_e": 42.6,
+          "csqa": 29.6,
+          "hellaswag": 35.8,
+          "mmlu": 26.4,
+          "obqa": 28.0,
+          "piqa": 65.9,
+          "siqa": 39.6,
+          "winogrande": 51.5,
+          "sciq": 61.3
+        },
+        "avg": 40.5
+      },
+      {
+        "setting": "Comb",
+        "method": "Prox-C",
+        "scores": {
+          "arc_c": 24.9,
+          "arc_e": 42.6,
+          "csqa": 30.0,
+          "hellaswag": 36.7,
+          "mmlu": 27.1,
+          "obqa": 27.4,
+          "piqa": 65.1,
+          "siqa": 38.7,
+          "winogrande": 51.0,
+          "sciq": 64.9
+        },
+        "avg": 40.8
+      },
+      {
+        "setting": "Comb",
+        "method": "RefineX",
+        "scores": {
+          "arc_c": 24.3,
+          "arc_e": 44.1,
+          "csqa": 29.6,
+          "hellaswag": 37.2,
+          "mmlu": 26.8,
+          "obqa": 29.8,
+          "piqa": 64.4,
+          "siqa": 39.2,
+          "winogrande": 51.1,
+          "sciq": 65.4
+        },
+        "avg": 41.2
+      },
+      {
+        "setting": "Prox-D",
+        "method": "Baseline",
+        "scores": {
+          "arc_c": 25.1,
+          "arc_e": 44.3,
+          "csqa": 28.5,
+          "hellaswag": 35.6,
+          "mmlu": 27.8,
+          "obqa": 28.8,
+          "piqa": 64.1,
+          "siqa": 38.5,
+          "winogrande": 51.3,
+          "sciq": 67.2
+        },
+        "avg": 41.1
+      },
+      {
+        "setting": "Prox-D",
+        "method": "Prox-C",
+        "scores": {
+          "arc_c": 24.8,
+          "arc_e": 46.4,
+          "csqa": 29.1,
+          "hellaswag": 35.3,
+          "mmlu": 28.1,
+          "obqa": 30.4,
+          "piqa": 65.3,
+          "siqa": 38.5,
+          "winogrande": 52.4,
+          "sciq": 69.3
+        },
+        "avg": 41.9
+      },
+      {
+        "setting": "Prox-D",
+        "method": "RefineX",
+        "scores": {
+          "arc_c": 26.8,
+          "arc_e": 48.1,
+          "csqa": 28.6,
+          "hellaswag": 36.8,
+          "mmlu": 29.3,
+          "obqa": 29.6,
+          "piqa": 64.4,
+          "siqa": 39.3,
+          "winogrande": 52.8,
+          "sciq": 69.5
+        },
+        "avg": 42.5
+      }
+    ]
+  }
+}

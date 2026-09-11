@@ -1,0 +1,145 @@
+---
+layout: null
+---
+{% raw %}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f8faf7">
+  <title>RefineX · Learning to Refine Pre-training Data at Scale</title>
+  <meta name="description" content="RefineX distills expert-guided text refinement into compact deletion programs for efficient, reliable refinement of pre-training data at scale.">
+  <link rel="canonical" href="https://byronbbl.github.io/refinex/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="RefineX: Learning to Refine Pre-training Data at Scale from Expert-Guided Programs">
+  <meta property="og:description" content="Better pre-training data, one precise deletion at a time. Explore the method, results, and examples.">
+  <meta property="og:url" content="https://byronbbl.github.io/refinex/">
+  <meta property="og:image" content="https://byronbbl.github.io/refinex/assets/social-preview.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="citation_title" content="RefineX: Learning to Refine Pre-training Data at Scale from Expert-Guided Programs">
+  <meta name="citation_author" content="Baolong Bi">
+  <meta name="citation_author" content="Shenghua Liu">
+  <meta name="citation_author" content="Xingzhang Ren">
+  <meta name="citation_author" content="Dayiheng Liu">
+  <meta name="citation_author" content="Junyang Lin">
+  <meta name="citation_author" content="Yiwei Wang">
+  <meta name="citation_author" content="Lingrui Mei">
+  <meta name="citation_author" content="Junfeng Fang">
+  <meta name="citation_author" content="Jiafeng Guo">
+  <meta name="citation_author" content="Xueqi Cheng">
+  <meta name="citation_publication_date" content="2025">
+  <meta name="citation_pdf_url" content="https://arxiv.org/pdf/2507.03253">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css?v=20260911-2">
+  <script src="assets/results-data.js" defer></script>
+  <script src="script.js?v=20260911-2" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <nav class="nav-wrap" aria-label="Main navigation">
+      <a class="wordmark" href="#top" aria-label="RefineX home"><svg class="brand-icon" viewBox="0 0 28 28" fill="none" aria-hidden="true"><path d="M6 4h10l6 6v14H6z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M16 4v6h6M10 14h8M10 18h5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><path d="m19 19 2 2 4-5" stroke="#73a882" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>Refine<span>X</span></a>
+      <div class="nav-links"><a href="#overview">Overview</a><a href="#method">Method</a><a href="#results">Results</a><a href="#examples">Examples</a></div>
+      <a class="nav-paper" href="https://arxiv.org/pdf/2507.03253" target="_blank" rel="noopener">Read the paper <span aria-hidden="true">↗</span></a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="hero section-shell" id="top" aria-labelledby="paper-title">
+      <div class="eyebrow hero-eyebrow"><span class="status-dot"></span> PRE-TRAINING DATA REFINEMENT</div>
+      <h1 id="paper-title"><span class="hero-name">Refine<span>X</span></span><span class="hero-title">Learning to Refine Pre-training Data<br class="desktop-break"> at Scale from Expert-Guided Programs</span></h1>
+      <p class="hero-tagline">Better data, one precise deletion at a time.</p>
+      <div class="authors" aria-label="Authors">
+        <span><a href="https://byronbbl.github.io/" target="_blank" rel="noopener">Baolong Bi</a><sup>1</sup></span>
+        <span><a href="https://shenghua-liu.github.io/" target="_blank" rel="noopener">Shenghua Liu</a><sup>1,†</sup></span>
+        <span>Xingzhang Ren<sup>2,†</sup></span>
+        <span>Dayiheng Liu<sup>2,†</sup></span>
+        <span>Junyang Lin<sup>2</sup></span>
+        <span><a href="https://wangywust.github.io/" target="_blank" rel="noopener">Yiwei Wang</a><sup>3</sup></span>
+        <span>Lingrui Mei<sup>1</sup></span>
+        <span>Junfeng Fang<sup>4</sup></span>
+        <span>Jiafeng Guo<sup>1</sup></span>
+        <span>Xueqi Cheng<sup>1</sup></span>
+      </div>
+      <div class="affiliations"><span><sup>1</sup> Institute of Computing Technology, Chinese Academy of Sciences</span><span><sup>2</sup> Alibaba Group</span><span><sup>3</sup> University of California, Merced</span><span><sup>4</sup> National University of Singapore</span></div>
+      <details class="author-notes"><summary>Author information <span aria-hidden="true">+</span></summary><p><sup>1</sup> Also affiliated with Key Laboratory of Network Data Science and Technology, ICT, CAS; State Key Laboratory of AI Safety; and University of Chinese Academy of Sciences.</p><p>† Corresponding authors: Shenghua Liu, Xingzhang Ren, and Dayiheng Liu.</p></details>
+      <div class="resource-links" aria-label="Paper resources">
+        <a class="button button-primary" href="https://arxiv.org/pdf/2507.03253" target="_blank" rel="noopener"><svg viewBox="0 0 20 20" fill="none" aria-hidden="true"><path d="M5 2.5h7l3 3v12H5zM12 2.5v4h3M8 10h4M8 13h4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>Paper <span aria-hidden="true">↗</span></a>
+        <a class="button" href="https://arxiv.org/abs/2507.03253" target="_blank" rel="noopener"><span class="arxiv-icon" aria-hidden="true">X</span>arXiv</a>
+        <a class="button" href="https://github.com/byronBBL/RefineX" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-3.16 19.49c.5.1.68-.22.68-.48v-1.86c-2.78.6-3.37-1.18-3.37-1.18-.45-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.61.07-.61 1 .07 1.53 1.03 1.53 1.03.89 1.53 2.34 1.09 2.91.83.09-.65.35-1.09.64-1.34-2.22-.25-4.55-1.11-4.55-4.94 0-1.1.39-1.99 1.03-2.69-.1-.25-.45-1.27.1-2.65 0 0 .84-.27 2.75 1.03a9.58 9.58 0 0 1 5 0c1.91-1.3 2.75-1.03 2.75-1.03.55 1.38.2 2.4.1 2.65.64.7 1.03 1.6 1.03 2.69 0 3.84-2.34 4.69-4.57 4.94.36.31.68.92.68 1.85v2.75c0 .27.18.59.69.48A10 10 0 0 0 12 2Z"/></svg>Repository</a>
+        <a class="button" href="#citation"><span class="cite-icon" aria-hidden="true">{ }</span>BibTeX</a>
+      </div>
+      <a class="explore-link" href="#overview">Explore the research <span aria-hidden="true">↓</span></a>
+    </section>
+
+    <section class="highlights section-shell" aria-label="Key results">
+      <a class="highlight" href="#results"><span class="metric-label">DOWNSTREAM PERFORMANCE</span><span class="metric">44.7<span>%</span></span><strong>Average accuracy across 10 tasks</strong><span class="metric-note">750M model · 20B tokens · Prox-D + RefineX</span><span class="metric-arrow" aria-hidden="true">↗</span></a>
+      <a class="highlight" href="#efficiency"><span class="metric-label">DATA EFFICIENCY</span><span class="metric">40<span>% fewer</span></span><strong>Training tokens for a higher score</strong><span class="metric-note">12B with Prox-D + RefineX vs. 20B with Comb</span><span class="metric-arrow" aria-hidden="true">↗</span></a>
+      <a class="highlight" href="#examples"><span class="metric-label">FAITHFUL REFINEMENT</span><span class="metric">0<span> new words</span></span><strong>Keep the original wording</strong><span class="metric-note">Per 1,000 refined tokens, in all 5 quality groups</span><span class="metric-arrow" aria-hidden="true">↗</span></a>
+    </section>
+
+    <section class="overview section-shell section-space" id="overview" aria-labelledby="overview-title">
+      <div class="section-intro"><span class="eyebrow">01 / THE IDEA</span><h2 id="overview-title">Refine the text.<br><span class="muted-heading">Preserve its voice.</span></h2></div>
+      <div class="overview-copy"><p class="lead">Web data contains valuable knowledge wrapped in noise. RefineX learns to remove the noise with precise, executable edits.</p><p>Document filters decide what to keep. End-to-end rewriting can change more than intended. RefineX takes a finer approach: an expert first refines the text, then its edits are distilled into compact <strong>deletion-only programs</strong>.</p><p>A <strong>0.6B refining model</strong> learns to generate these programs at scale. The resulting corpus retains its original wording while supporting stronger downstream performance.</p><details class="abstract-details"><summary>Read the abstract <span aria-hidden="true">+</span></summary><div class="abstract-copy"><p>The foundational capabilities of large language models (LLMs) are deeply influenced by the quality of their pretraining corpora. However, enhancing data quality at scale remains a significant challenge, primarily due to the trade-off between refinement effectiveness and processing efficiency. While rule-based filtering remains the dominant paradigm, it typically operates at the document level and lacks the granularity needed to refine specific content within documents.</p><p>Inspired by emerging work such as ProX, we propose <strong>RefineX</strong>, a novel framework for large-scale, surgical refinement of pretraining data through programmatic editing tasks. RefineX enables efficient and fine-grained data refinement while reliably preserving the diversity and naturalness of raw text. The core strength of RefineX lies in distilling high-quality, expert-guided end-to-end refinement results into minimal edit-based deletion programs. This high-precision distillation pipeline is used to train an efficient and reliable refine model that can systematically improve every instance in the corpus at scale.</p><p>We evaluate RefineX across from-scratch pretraining at multiple model scales and find that it consistently outperforms models trained on raw, filtered, or alternatively refined data across diverse downstream tasks. On the 750M model, RefineX yields 2.6%–7.2% average gains on lighteval tasks, and achieves comparable performance using significantly fewer training tokens. Further analysis shows that RefineX reliably enhances text quality with both high efficiency and precision, outperforming prior approaches such as end-to-end generation and Prox-C. These results position RefineX as a scalable, effective, and reliable solution for optimizing pretraining data in modern LLM pipelines.</p></div></details></div>
+    </section>
+
+    <section class="method-section section-space" id="method" aria-labelledby="method-title">
+      <div class="section-shell">
+        <div class="section-topline"><div><span class="eyebrow">02 / THE METHOD</span><h2 id="method-title">Expert knowledge.<br>Lightweight execution.</h2></div><p class="section-deck">Separate the quality of expert refinement<br class="desktop-break"> from the cost of applying it everywhere.</p></div>
+        <div class="pipeline" aria-label="Four stages of the RefineX method">
+          <article class="pipeline-step"><span class="step-number">01</span><h3>Refine with an expert</h3><p>An expert language model produces high-quality refinements of seed documents.</p><span class="step-detail">Qwen2.5-72B-Instruct</span></article>
+          <article class="pipeline-step"><span class="step-number">02</span><h3>Extract precise edits</h3><p>Compare raw and refined text. Keep deletions and discard insertions and replacements.</p><span class="step-detail">Deletion-only supervision</span></article>
+          <article class="pipeline-step"><span class="step-number">03</span><h3>Distill the programs</h3><p>Train a compact model on approximately 2 million selected text–program pairs.</p><span class="step-detail">Qwen3-0.6B-Base</span></article>
+          <article class="pipeline-step"><span class="step-number">04</span><h3>Refine at scale</h3><p>Generate short programs and execute them to remove low-value content from the corpus.</p><span class="step-detail">Compact, executable edits</span></article>
+        </div>
+        <figure class="paper-figure framework-figure"><a class="figure-zoom" href="assets/figures/framework.pdf" data-zoom="assets/figures/framework.webp" data-title="The RefineX framework" aria-label="Enlarge the RefineX framework figure"><img src="assets/figures/framework.webp" width="2400" height="1050" alt="RefineX training pipeline: an expert refines seed text, deletion programs are extracted to train a small refiner, and the refiner generates executable programs to clean the pre-training corpus." loading="lazy"><span class="zoom-hint" aria-hidden="true">↗ Expand figure</span></a><figcaption><span>THE REFINEX FRAMEWORK</span> Reliable supervision during training; efficient program execution during corpus refinement. <a href="assets/figures/framework.pdf" target="_blank" rel="noopener">Original PDF ↗</a></figcaption></figure>
+        <details class="comparison-details"><summary><span>What changes from ProX to RefineX?</span><span aria-hidden="true">+</span></summary><div><p>ProX asks the expert to generate a refinement program directly. RefineX lets the expert produce refined text first, then derives deletion programs by comparing the input and output. This separates text refinement from program construction.</p><figure class="paper-figure"><a class="figure-zoom" href="assets/figures/comparison.pdf" data-zoom="assets/figures/comparison.webp" data-title="ProX and RefineX: constructing supervision"><img src="assets/figures/comparison.webp" width="2400" height="879" loading="lazy" alt="Comparison of ProX direct program generation and RefineX expert text refinement followed by deletion-program extraction."><span class="zoom-hint" aria-hidden="true">↗ Expand figure</span></a></figure></div></details>
+      </div>
+    </section>
+
+    <section class="results-section section-shell section-space" id="results" aria-labelledby="results-title">
+      <div class="section-topline"><div><span class="eyebrow">03 / THE RESULTS</span><h2 id="results-title">Better data.<br>Stronger models.</h2></div><p class="section-deck">Trained from scratch. Evaluated across 10 tasks.<br class="desktop-break"> The highest average in all six data settings.</p></div>
+      <div class="experiment-toolbar"><div class="scale-control" role="group" aria-label="Pre-trained model size"><button type="button" class="active" data-scale="750M" aria-pressed="true">750M model</button><button type="button" data-scale="350M" aria-pressed="false">350M model</button></div><span class="experiment-meta">20B training tokens <span aria-hidden="true">·</span> RedPajama-V2</span></div>
+      <div class="result-explorer">
+        <div class="chart-heading"><div><h3>Average downstream accuracy</h3><p>Compare refinement methods on the same source corpus.</p></div><label class="setting-control">Source corpus<select id="corpus-setting"><option value="Prox-D" selected>Prox-D</option><option value="Raw">Raw</option><option value="Gopher">Gopher</option><option value="C4">C4</option><option value="FineWeb">FineWeb</option><option value="Comb">Comb</option></select></label></div>
+        <div id="comparison-chart" class="comparison-chart" role="img" aria-label="750M model, Prox-D source corpus: baseline 42.0%, Prox-C 43.5%, RefineX 44.7% average accuracy."><div class="bar-row"><span class="bar-label">Baseline</span><div class="bar-track"><div class="bar baseline" style="width:84%"></div></div><strong>42.0</strong></div><div class="bar-row"><span class="bar-label">+ Prox-C</span><div class="bar-track"><div class="bar prox" style="width:87%"></div></div><strong>43.5</strong></div><div class="bar-row"><span class="bar-label">+ RefineX</span><div class="bar-track"><div class="bar refinex" style="width:89.4%"></div></div><strong>44.7</strong></div><div class="chart-axis"><span>0</span><span>10</span><span>20</span><span>30</span><span>40</span><span>50%</span></div></div>
+        <p class="chart-insight" id="chart-insight" aria-live="polite"><span class="insight-dot" aria-hidden="true"></span><strong>+2.7 points</strong> over Prox-D without additional refinement, at the same training-token budget.</p>
+      </div>
+      <p class="results-note">Baseline means no additional fine-grained refinement. Prox-D is LLM-based document filtering; Comb combines Gopher, C4, and FineWeb rules. Values are the paper’s reported averages.</p>
+      <details class="results-details"><summary><span>Explore all 10 benchmarks <span class="summary-count">18 configurations per model size</span></span><span aria-hidden="true">+</span></summary><div class="table-container" role="region" aria-label="Full benchmark results, scroll horizontally to see all tasks" tabindex="0"><table id="results-table"><caption>750M model · 20B training tokens · accuracy (%)</caption><thead></thead><tbody></tbody></table></div><p class="table-note">RefineX rows are highlighted. Bold numbers are the best within each source-corpus group, including ties. Reported averages are preserved from the paper.</p></details>
+      <noscript><p>Enable JavaScript to switch model sizes and explore the full table, or <a href="https://arxiv.org/pdf/2507.03253">read all benchmark results in the paper</a>.</p></noscript>
+    </section>
+
+    <section class="efficiency-section section-shell" id="efficiency" aria-labelledby="efficiency-title">
+      <div class="efficiency-heading"><span class="eyebrow">QUALITY WITHOUT THE GENERATION OVERHEAD</span><h2 id="efficiency-title">Make every training token count.</h2><p>At 750M scale, Prox-D + RefineX reaches <strong>42.4</strong> average accuracy with <strong>12B tokens</strong>, compared with <strong>42.1</strong> for Comb at <strong>20B tokens</strong>.</p></div>
+      <div class="analysis-grid"><figure class="paper-figure analysis-figure"><div class="analysis-label"><span>01</span><h3>Learn more from less data</h3></div><a class="figure-zoom" href="assets/figures/performance.pdf" data-zoom="assets/figures/performance.webp" data-title="Downstream performance over training tokens"><img src="assets/figures/performance.webp" width="2000" height="1980" loading="lazy" alt="Average downstream performance versus training tokens, comparing RefineX, Prox-C and unrefined baselines at the 750M model scale."><span class="zoom-hint" aria-hidden="true">↗ Expand figure</span></a><figcaption>Average downstream accuracy across training checkpoints. RefineX consistently improves the learning curve. <a href="assets/figures/performance.pdf" target="_blank" rel="noopener">Original PDF ↗</a></figcaption></figure><figure class="paper-figure analysis-figure"><div class="analysis-label"><span>02</span><h3>Generate edits, efficiently</h3></div><a class="figure-zoom" href="assets/figures/efficiency.pdf" data-zoom="assets/figures/efficiency.webp" data-title="Generation overhead and unchanged documents"><img src="assets/figures/efficiency.webp" width="2000" height="1961" loading="lazy" alt="Generated-to-input token ratio and the proportion of unchanged documents, grouped by initial text quality, for E2E, Prox-C and RefineX."><span class="zoom-hint" aria-hidden="true">↗ Expand figure</span></a><figcaption>Generated/input token ratio (top) and unchanged-document ratio (bottom), grouped by initial quality. <a href="assets/figures/efficiency.pdf" target="_blank" rel="noopener">Original PDF ↗</a></figcaption></figure></div>
+    </section>
+
+    <section class="examples-section section-space" id="examples" aria-labelledby="examples-title">
+      <div class="section-shell"><div class="section-topline"><div><span class="eyebrow">04 / A CLOSER LOOK</span><h2 id="examples-title">The knowledge stays.<br>The noise goes.</h2></div><p class="section-deck">A real example from the paper.<br class="desktop-break"> The retained text is unchanged.</p></div>
+        <div class="case-toolbar"><span>CASE STUDY <span class="case-divider">/</span> A music article from the web</span><label class="highlight-toggle"><input type="checkbox" id="highlight-removals" checked><span class="toggle-track" aria-hidden="true"></span>Highlight removals</label></div>
+        <div class="document-comparison show-removals" id="case-comparison"><article class="document-panel"><div class="document-heading"><h3><span class="doc-dot raw-dot"></span>Original document</h3><span>RAW TEXT</span></div><div class="document-body"><p class="omission">[…]</p><p class="removed">June 24, 2016</p><p class="removed">STORE | CHECKOUT/CART</p><p class="removed">EXCLUSIVE // Listen to Stage Kids’ new album ‘Intra Mental’ in full</p><p>Five years after their full-length release, Killer Tofu, the San Diego-based instrumental band Stage Kids have reemerged with their latest masterpiece, Intra Mental. Two new members (keyboard and electronics) have joined the quintet since 2011, resulting in more complex and dynamic soundscapes. But the majority of us are summing this one up in one word: definitive.</p><p class="omission">[…]</p><p class="removed">Related exclusive fecking bahamas full intra mental stage kids stream Share On Tweet</p><p class="omission">[…]</p></div></article><article class="document-panel refined-document"><div class="document-heading"><h3><span class="doc-dot refined-dot"></span>Refined by RefineX</h3><span>DELETIONS ONLY</span></div><div class="document-body"><p class="omission">[…]</p><p>Five years after their full-length release, Killer Tofu, the San Diego-based instrumental band Stage Kids have reemerged with their latest masterpiece, Intra Mental. Two new members (keyboard and electronics) have joined the quintet since 2011, resulting in more complex and dynamic soundscapes. But the majority of us are summing this one up in one word: definitive.</p><p class="omission">[…]</p><div class="preservation-note"><svg viewBox="0 0 20 20" fill="none" aria-hidden="true"><path d="m5 10 3 3 7-7" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg>Original wording preserved</div></div></article></div>
+        <p class="case-note">Excerpt from Case 2 in the paper. […] marks omitted passages. The example shows the paper’s recorded refinement output.</p>
+        <div class="operations"><p>Three operations.<br><strong>Fine-grained control.</strong></p><div><code>remove_lines(start, end)</code><span>Delete a range of lines</span></div><div><code>remove_str(line, text)</code><span>Delete a uniquely matched string</span></div><div><code>keep_all()</code><span>Preserve the whole document</span></div></div>
+      </div>
+    </section>
+
+    <section class="citation-section section-shell section-space" id="citation" aria-labelledby="citation-title"><div class="section-topline"><div><span class="eyebrow">05 / BUILD ON THIS WORK</span><h2 id="citation-title">Citation</h2></div><p class="section-deck">If you find RefineX useful in your research,<br class="desktop-break"> please consider citing our paper.</p></div><div class="citation-block"><div class="citation-toolbar"><span>BibTeX</span><div><a href="assets/refinex.bib" download>Download .bib <span aria-hidden="true">↓</span></a><button type="button" id="copy-citation">Copy citation <svg viewBox="0 0 20 20" fill="none" aria-hidden="true"><rect x="7" y="7" width="9" height="10" rx="1.5" stroke="currentColor" stroke-width="1.4"/><path d="M12 7V3H3v10h4" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/></svg></button></div></div><pre><code id="bibtex">@misc{bi2025refinex,
+  title         = {{RefineX}: Learning to Refine Pre-training Data at Scale
+                   from Expert-Guided Programs},
+  author        = {Baolong Bi and Shenghua Liu and Xingzhang Ren and
+                   Dayiheng Liu and Junyang Lin and Yiwei Wang and
+                   Lingrui Mei and Junfeng Fang and Jiafeng Guo and Xueqi Cheng},
+  year          = {2025},
+  eprint        = {2507.03253},
+  archivePrefix = {arXiv},
+  url           = {https://arxiv.org/abs/2507.03253}
+}</code></pre><span class="sr-only" id="copy-status" role="status"></span></div><p class="release-note">Follow the <a href="https://github.com/byronBBL/RefineX" target="_blank" rel="noopener">RefineX repository ↗</a> for updates. Code and refining models are listed as coming soon.</p></section>
+  </main>
+  <footer class="site-footer section-shell"><a class="wordmark" href="#top">Refine<span>X</span></a><p>Learning to refine, at scale.</p><a href="https://byronbbl.github.io/">Baolong Bi <span aria-hidden="true">↗</span></a></footer>
+  <dialog class="figure-dialog" id="figure-dialog" aria-labelledby="figure-dialog-title"><div class="dialog-toolbar"><h2 id="figure-dialog-title">Paper figure</h2><div class="dialog-actions"><button type="button" id="zoom-figure" aria-pressed="false">Zoom in</button><button type="button" id="close-figure" aria-label="Close figure">Close <span aria-hidden="true">×</span></button></div></div><div class="dialog-image-wrap"><img id="dialog-image" alt=""></div><a id="dialog-pdf" target="_blank" rel="noopener">Open original PDF ↗</a></dialog>
+</body>
+</html>
+
+{% endraw %}
